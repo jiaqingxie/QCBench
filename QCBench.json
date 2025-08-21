@@ -1,0 +1,3152 @@
+[
+    {
+        "index": 1,
+        "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. Calculate the standard enthalpy of solution of $\\mathrm{AgCl}(\\mathrm{s})$ in water from the enthalpies of formation of the solid and the aqueous ions.",
+        "answer": "65.49",
+        "unit": "$\\mathrm{kJ} \\mathrm{mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 2,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate the change in chemical potential of a perfect gas when its pressure is increased isothermally from $1.8 \\mathrm{~atm}$ to $29.5 \\mathrm{~atm}$ at $40^{\\circ} \\mathrm{C}$.",
+        "answer": "7.3",
+        "unit": "$\\mathrm{kJ} \\mathrm{mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 3,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate the change in entropy when $25 \\mathrm{~kJ}$ of energy is transferred reversibly and isothermally as heat to a large block of iron at $100^{\\circ} \\mathrm{C}$.",
+        "answer": "67",
+        "unit": "$\\mathrm{J} \\mathrm{K}^{-1}$ ",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 4,
+        "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. A sample of $4.50 \\mathrm{~g}$ of methane occupies $12.7 \\mathrm{dm}^3$ at $310 \\mathrm{~K}$. Calculate the work that would be done if the same expansion occurred reversibly.",
+        "answer": "-167",
+        "unit": "$\\mathrm{J}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 5,
+        "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. A strip of magnesium of mass $15 \\mathrm{~g}$ is placed in a beaker of dilute hydrochloric acid. Calculate the work done by the system as a result of the reaction. The atmospheric pressure is 1.0 atm and the temperature $25^{\\circ} \\mathrm{C}$.",
+        "answer": "-1.5",
+        "unit": "$\\text{kJ}$ ",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 6,
+        "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. For a van der Waals gas, $\\pi_T=a / V_{\\mathrm{m}}^2$. Calculate $\\Delta U_{\\mathrm{m}}$ for the isothermal expansion of nitrogen gas from an initial volume of $1.00 \\mathrm{dm}^3$ to $24.8 \\mathrm{dm}^3$ at $298 \\mathrm{~K}$.",
+        "answer": "131",
+        "unit": "$\\mathrm{J} \\mathrm{mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 7,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate the molar entropy of a constant-volume sample of neon at $500 \\mathrm{~K}$ given that it is $146.22 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$ at $298 \\mathrm{~K}$.",
+        "answer": "152.67",
+        "unit": "$\\mathrm{J} \\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 8,
+        "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. Calculate the final temperature of a sample of argon of mass $12.0 \\mathrm{~g}$ that is expanded reversibly and adiabatically from $1.0 \\mathrm{dm}^3$ at $273.15 \\mathrm{~K}$ to $3.0 \\mathrm{dm}^3$.",
+        "answer": "131",
+        "unit": " $\\mathrm{K}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 9,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate the change in entropy when $25 \\mathrm{~kJ}$ of energy is transferred reversibly and isothermally as heat to a large block of iron at $0^{\\circ} \\mathrm{C}$.",
+        "answer": "92",
+        "unit": "$\\mathrm{J} \\mathrm{K}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 10,
+        "question": "A gas at $250 \\mathrm{~K}$ and $15 \\mathrm{~atm}$ has a molar volume 12 per cent smaller than that calculated from the perfect gas law. Calculate the molar volume of the gas.",
+        "answer": "1.2",
+        "unit": "$\\mathrm{dm}^3 \\mathrm{~mol}^{-1}$ ",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 11,
+        "question": "Calculate the mass of water vapour present in a room of volume $400 \\mathrm{m}^3$ that contains air at $27^{\\circ} \\mathrm{C}$ on a day when the relative humidity is 60 percent.'",
+        "answer": "6.2",
+        "unit": "$\\text{kg}$ ",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 12,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. The enthalpy of vaporization of chloroform $\\left(\\mathrm{CHCl}_3\\right)$ is $29.4 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$ at its normal boiling point of $334.88 \\mathrm{~K}$. Calculate the entropy of vaporization of chloroform at this temperature.",
+        "answer": "87.8",
+        "unit": "$\\mathrm{J} \\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 13,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. The enthalpy of vaporization of chloroform $\\left(\\mathrm{CHCl}_3\\right)$ is $29.4 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$ at its normal boiling point of $334.88 \\mathrm{~K}$. Calculate the entropy change of the surroundings.",
+        "answer": "-87.8",
+        "unit": "$\\mathrm{J} \\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 14,
+        "question": "A gas at $250 \\mathrm{~K}$ and $15 \\mathrm{~atm}$ has a molar volume 12 per cent smaller than that calculated from the perfect gas law. Calculate the compression factor under these conditions.",
+        "answer": "0.88",
+        "unit": "",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 15,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Suppose that $3.0 \\mathrm{mmol} \\mathrm{N}_2$ (g) occupies $36 \\mathrm{~cm}^3$ at $300 \\mathrm{~K}$ and expands to $60 \\mathrm{~cm}^3$. Calculate $\\Delta G$ for the process.",
+        "answer": "-3.8",
+        "unit": " $\\text{J}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 16,
+        "question": "A vessel of volume $22.4 \\mathrm{dm}^3$ contains $2.0 \\mathrm{~mol} \\mathrm{H}_2$ and $1.0 \\mathrm{~mol} \\mathrm{~N}_2$ at $273.15 \\mathrm{~K}$. Calculate their total pressure.",
+        "answer": "3",
+        "unit": "$\\mathrm{atm}$ ",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 17,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate the total change in entropy, when a sample of nitrogen gas of mass $14 \\mathrm{~g}$ at $298 \\mathrm{~K}$ and $1.00 \\mathrm{bar}$ doubles its volume in an adiabatic reversible expansion.",
+        "answer": "0",
+        "unit": "",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 18,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate the Carnot efficiency of a modern steam turbine that operates with steam at $300^{\\circ} \\mathrm{C}$ and discharges at $80^{\\circ} \\mathrm{C}$.",
+        "answer": "0.38",
+        "unit": "",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 19,
+        "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. When a certain freon used in refrigeration was expanded adiabatically from an initial pressure of $32 \\mathrm{~atm}$ and $0^{\\circ} \\mathrm{C}$ to a final pressure of $1.00 \\mathrm{~atm}$, the temperature fell by $22 \\mathrm{~K}$. Calculate the Joule-Thomson coefficient, $\\mu$, at $0^{\\circ} \\mathrm{C}$, assuming it remains constant over this temperature range.",
+        "answer": "0.71",
+        "unit": "$\\mathrm{K} \\mathrm{atm}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 20,
+        "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. The volume of a certain liquid varies with temperature as\n$$\nV=V^{\\prime}\\left\\{0.75+3.9 \\times 10^{-4}(T / \\mathrm{K})+1.48 \\times 10^{-6}(T / \\mathrm{K})^2\\right\\}\n$$\nwhere $V^{\\prime}$ is its volume at $300 \\mathrm{~K}$. Calculate its expansion coefficient, $\\alpha$, at $320 \\mathrm{~K}$.",
+        "answer": "$1.31 \\times 10^{-3}$",
+        "unit": "$\\mathrm{~K}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 21,
+        "question": "In an attempt to determine an accurate value of the gas constant, $R$, a student heated a container of volume $20.000 \\mathrm{dm}^3$ filled with $0.25132 \\mathrm{g}$ of helium gas to $500^{\\circ} \\mathrm{C}$ and measured the pressure as $206.402 \\mathrm{cm}$ of water in a manometer at $25^{\\circ} \\mathrm{C}$. Calculate the value of $R$ from these data. (The density of water at $25^{\\circ} \\mathrm{C}$ is $0.99707 \\mathrm{g} \\mathrm{cm}^{-3}$; a manometer consists of a U-shaped tube containing a liquid. One side is connected to the apparatus and the other is open to the atmosphere. The pressure inside the apparatus is then determined from the difference in heights of the liquid.)",
+        "answer": "8.3147",
+        "unit": "$\\mathrm{JK}^{-1} \\mathrm{~mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 22,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. The standard enthalpy of combustion of solid phenol $\\left(\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{OH}\\right)$ is $-3054 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$ at $298 \\mathrm{~K}_{\\text {and }}$ its standard molar entropy is $144.0 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$. Calculate the standard Gibbs energy of formation of phenol at $298 \\mathrm{~K}$.",
+        "answer": "-50",
+        "unit": "$\\mathrm{kJ} \\mathrm{mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 23,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate the Carnot efficiency of a primitive steam engine operating on steam at $100^{\\circ} \\mathrm{C}$ and discharging at $60^{\\circ} \\mathrm{C}$.",
+        "answer": "0.11",
+        "unit": "",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 24,
+        "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. A sample of $4.50 \\mathrm{~g}$ of methane occupies $12.7 \\mathrm{dm}^3$ at $310 \\mathrm{~K}$. Calculate the work done when the gas expands isothermally against a constant external pressure of 200 Torr until its volume has increased by\n$3.3 \\mathrm{dm}^3$.",
+        "answer": "-88",
+        "unit": "$\\mathrm{J}$ ",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 25,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate the maximum non-expansion work per mole that may be obtained from a fuel cell in which the chemical reaction is the combustion of methane at $298 \\mathrm{~K}$.",
+        "answer": "817.9",
+        "unit": "$\\mathrm{kJ} \\mathrm{mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 26,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate the change in Gibbs energy of $35 \\mathrm{~g}$ of ethanol (mass density $0.789 \\mathrm{~g} \\mathrm{~cm}^{-3}$ ) when the pressure is increased isothermally from $1 \\mathrm{~atm}$ to $3000 \\mathrm{~atm}$.",
+        "answer": "12",
+        "unit": "$\\text{kJ}$ ",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 27,
+        "question": "Calculate the pressure exerted by $1.0 \\mathrm{~mol} \\mathrm{Xe}$ when it is confined to $1.0 \\mathrm{dm}^3$ at $25^{\\circ} \\mathrm{C}$.",
+        "answer": "21",
+        "unit": "$\\mathrm{atm}$ ",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 28,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate the total change in entropy, when a sample of nitrogen gas of mass $14 \\mathrm{~g}$ at $298 \\mathrm{~K}$ and $1.00 \\mathrm{bar}$ doubles its volume in an isothermal reversible expansion.",
+        "answer": "0",
+        "unit": "",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 29,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate $\\Delta H$ when two copper blocks, each of mass $10.0 \\mathrm{~kg}$, one at $100^{\\circ} \\mathrm{C}$ and the other at $0^{\\circ} \\mathrm{C}$, are placed in contact in an isolated container. The specific heat capacity of copper is $0.385 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~g}^{-1}$ and may be assumed constant over the temperature range involved.",
+        "answer": "0",
+        "unit": "",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 30,
+        "question": "A perfect gas undergoes isothermal compression, which reduces its volume by $2.20 \\mathrm{dm}^3$. The final pressure and volume of the gas are $5.04 \\mathrm{bar}$ and $4.65 \\mathrm{dm}^3$, respectively. Calculate the original pressure of the gas in atm.",
+        "answer": "3.38",
+        "unit": "$\\mathrm{atm}$ ",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 31,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate the total change in entropy, when a sample of nitrogen gas of mass $14 \\mathrm{~g}$ at $298 \\mathrm{~K}$ and $1.00 \\mathrm{bar}$ doubles its volume in an isothermal irreversible expansion against $p_{\\mathrm{ex}}=0$.",
+        "answer": "2.9",
+        "unit": "$\\mathrm{J} \\mathrm{K}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 32,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate the change in the molar Gibbs energy of hydrogen gas when its pressure is increased isothermally from $1.0 \\mathrm{~atm}$ to 100.0 atm at $298 \\mathrm{~K}$.",
+        "answer": "11",
+        "unit": "$\\mathrm{kJ} \\mathrm{mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 33,
+        "question": "A perfect gas undergoes isothermal compression, which reduces its volume by $2.20 \\mathrm{dm}^3$. The final pressure and volume of the gas are $5.04 \\mathrm{bar}$ and $4.65 \\mathrm{dm}^3$, respectively. Calculate the original pressure of the gas in bar.",
+        "answer": "3.42",
+        "unit": "$ \\mathrm{bar}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 34,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate $\\Delta S$ (for the system) when the state of $3.00 \\mathrm{~mol}$ of perfect gas atoms, for which $C_{p, \\mathrm{~m}}=\\frac{5}{2} R$, is changed from $25^{\\circ} \\mathrm{C}$ and 1.00 atm to $125^{\\circ} \\mathrm{C}$ and $5.00 \\mathrm{~atm}$.",
+        "answer": "-22.1",
+        "unit": "$\\mathrm{J} \\mathrm{K}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 35,
+        "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. A chemical reaction takes place in a container of cross-sectional area $100 \\mathrm{~cm}^2$. As a result of the reaction, a piston is pushed out through $10 \\mathrm{~cm}$ against an external pressure of $1.0 \\mathrm{~atm}$. Calculate the work done by the system.",
+        "answer": "$-1.0 \\times 10^2$",
+        "unit": "$\\mathrm{J}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 36,
+        "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. When $229 \\mathrm{~J}$ of energy is supplied as heat to $3.0 \\mathrm{~mol} \\mathrm{Ar}(\\mathrm{g})$ at constant pressure, the temperature of the sample increases by $2.55 \\mathrm{~K}$. Calculate the molar heat capacities at constant pressure of the gas.",
+        "answer": "22",
+        "unit": "$\\mathrm{J} \\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 37,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. The change in the Gibbs energy of a certain constant-pressure process was found to fit the expression $\\Delta G / \\text{J}=-85.40+36.5(T / \\text{K})$. Calculate the value of $\\Delta S$ for the process.",
+        "answer": "-36.5",
+        "unit": "$\\mathrm{J} \\mathrm{K}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 38,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Calculate $\\Delta S_\\text{tot}$ when two copper blocks, each of mass $10.0 \\mathrm{~kg}$, one at $100^{\\circ} \\mathrm{C}$ and the other at $0^{\\circ} \\mathrm{C}$, are placed in contact in an isolated container. The specific heat capacity of copper is $0.385 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~g}^{-1}$ and may be assumed constant over the temperature range involved.",
+        "answer": "93.4",
+        "unit": "$\\mathrm{J} \\mathrm{K}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 39,
+        "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. The standard enthalpy of formation of ethylbenzene is $-12.5 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$. Calculate its standard enthalpy of combustion.",
+        "answer": "-4564.7",
+        "unit": " $\\mathrm{kJ} \\mathrm{mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 40,
+        "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. The standard enthalpy of decomposition of the yellow complex $\\mathrm{H}_3 \\mathrm{NSO}_2$ into $\\mathrm{NH}_3$ and $\\mathrm{SO}_2$ is $+40 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$. Calculate the standard enthalpy of formation of $\\mathrm{H}_3 \\mathrm{NSO}_2$.",
+        "answer": "-383",
+        "unit": "$\\mathrm{kJ} \\mathrm{~mol}^{-1}$ ",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 41,
+        "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. Calculate the work needed for a $65 \\mathrm{~kg}$ person to climb through $4.0 \\mathrm{~m}$ on the surface of the Earth.",
+        "answer": "$2.6 \\times 10^3$",
+        "unit": "$\\mathrm{J}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 42,
+        "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. Calculate the work needed for a $65 \\mathrm{~kg}$ person to climb through $4.0 \\mathrm{~m}$ on the surface of the Moon $\\left(g=1.60 \\mathrm{~m} \\mathrm{~s}^{-2}\\right)$.",
+        "answer": "$4.2 \\times 10^2$",
+        "unit": " $\\mathrm{J}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 43,
+        "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. Calculate the final pressure of a sample of carbon dioxide that expands reversibly and adiabatically from $57.4 \\mathrm{kPa}$ and $1.0 \\mathrm{dm}^3$ to a final volume of $2.0 \\mathrm{dm}^3$. Take $\\gamma=1.4$.",
+        "answer": "22",
+        "unit": "$\\text{kPA}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 44,
+        "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. When $229 \\mathrm{~J}$ of energy is supplied as heat to $3.0 \\mathrm{~mol} \\mathrm{Ar}(\\mathrm{g})$ at constant pressure, the temperature of the sample increases by $2.55 \\mathrm{~K}$. Calculate the molar heat capacities at constant volume.",
+        "answer": "30",
+        "unit": "$\\mathrm{J} \\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 45,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. The fugacity coefficient of a certain gas at $200 \\mathrm{~K}$ and 50 bar is 0.72. Calculate the difference of its molar Gibbs energy from that of a perfect gas in the same state.",
+        "answer": "-0.55",
+        "unit": "$\\mathrm{kJ} \\mathrm{mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 46,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. A sample consisting of $3.00 \\mathrm{~mol}$ of diatomic perfect gas molecules at $200 \\mathrm{~K}$ is compressed reversibly and adiabatically until its temperature reaches $250 \\mathrm{~K}$. Given that $C_{V, \\mathrm{~m}}=27.5 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$, calculate $q$.",
+        "answer": "0",
+        "unit": "",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 47,
+        "question": "Assume all gases are perfect unless stated otherwise. Unless otherwise stated, thermodynamic data are for 298.15 K. For the reaction $\\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{OH}(\\mathrm{l})+3 \\mathrm{O}_2(\\mathrm{~g}) \\rightarrow 2 \\mathrm{CO}_2(\\mathrm{~g})+3 \\mathrm{H}_2 \\mathrm{O}(\\mathrm{g})$, $\\Delta_{\\mathrm{r}} U^\\ominus=-1373 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$ at $298 \\mathrm{~K}$, calculate $\\Delta_{\\mathrm{r}} H^{\\ominus}$.",
+        "answer": "-1368",
+        "unit": "$\\mathrm{~kJ} \\mathrm{~mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 48,
+        "question": "Assume all gases are perfect unless stated otherwise. Note that 1 atm = 1.013 25 bar. Unless otherwise stated, thermochemical data are for 298.15 K. A sample consisting of $2.0 \\mathrm{~mol} \\mathrm{CO}_2$ occupies a fixed volume of $15.0 \\mathrm{dm}^3$ at $300 \\mathrm{~K}$. When it is supplied with $2.35 \\mathrm{~kJ}$ of energy as heat its temperature increases to $341 \\mathrm{~K}$. Assume that $\\mathrm{CO}_2$ is described by the van der Waals equation of state, and calculate $w$.",
+        "answer": "0",
+        "unit": "",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 49,
+        "question": "Assume all gases are perfect unless stated otherwise. Note that 1 atm = 1.01325 bar. Unless otherwise stated, thermochemical data are for 298.15 K. Take nitrogen to be a van der Waals gas with $a=1.352 \\mathrm{dm}^6 \\mathrm{~atm} \\mathrm{\\textrm {mol } ^ { - 2 }}$ and $b=0.0387 \\mathrm{dm}^3 \\mathrm{~mol}^{-1}$, and calculate $\\Delta H_{\\mathrm{m}}$ when the pressure on the gas is decreased from $500 \\mathrm{~atm}$ to $1.00 \\mathrm{~atm}$ at $300 \\mathrm{~K}$. For a van der Waals gas, $\\mu=\\{(2 a / R T)-b\\} / C_{p, \\mathrm{~m}}$. Assume $C_{p, \\mathrm{~m}}=\\frac{7}{2} R$.",
+        "answer": "3.6",
+        "unit": "$\\text{kJ}$ ",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 50,
+        "question": "Assume all gases are perfect unless stated otherwise. Note that 1 atm = 1.013 25 bar. Unless otherwise stated, thermochemical data are for 298.15 K. A sample consisting of $2.0 \\mathrm{~mol} \\mathrm{CO}_2$ occupies a fixed volume of $15.0 \\mathrm{dm}^3$ at $300 \\mathrm{~K}$. When it is supplied with $2.35 \\mathrm{~kJ}$ of energy as heat its temperature increases to $341 \\mathrm{~K}$. Assume that $\\mathrm{CO}_2$ is described by the van der Waals equation of state, and calculate $\\Delta H$.",
+        "answer": "3.03",
+        "unit": "$\\text{kJ}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 51,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Consider a system consisting of $2.0 \\mathrm{~mol} \\mathrm{CO}_2(\\mathrm{~g})$, initially at $25^{\\circ} \\mathrm{C}$ and $10 \\mathrm{~atm}$ and confined to a cylinder of cross-section $10.0 \\mathrm{~cm}^2$. It is allowed to expand adiabatically against an external pressure of 1.0 atm until the piston has moved outwards through $20 \\mathrm{~cm}$. Assume that carbon dioxide may be considered a perfect gas with $C_{V, \\mathrm{~m}}=28.8 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$ and calculate $w$.",
+        "answer": "-20",
+        "unit": "$\\text{J}$ ",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 52,
+        "question": "Use the van der Waals parameters for chlorine to calculate approximate values of the radius of a $\\mathrm{Cl}_2$ molecule regarded as a sphere.",
+        "answer": "0.139",
+        "unit": "$\\mathrm{nm}$ ",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 53,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. A sample consisting of $3.00 \\mathrm{~mol}$ of diatomic perfect gas molecules at $200 \\mathrm{~K}$ is compressed reversibly and adiabatically until its temperature reaches $250 \\mathrm{~K}$. Given that $C_{V, \\mathrm{~m}}=27.5 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$, calculate $\\Delta U$.",
+        "answer": "4.1",
+        "unit": "$\\text{kJ}$ ",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 54,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Consider a system consisting of $2.0 \\mathrm{~mol} \\mathrm{CO}_2(\\mathrm{~g})$, initially at $25^{\\circ} \\mathrm{C}$ and $10 \\mathrm{~atm}$ and confined to a cylinder of cross-section $10.0 \\mathrm{~cm}^2$. It is allowed to expand adiabatically against an external pressure of 1.0 atm until the piston has moved outwards through $20 \\mathrm{~cm}$. Assume that carbon dioxide may be considered a perfect gas with $C_{V, \\mathrm{~m}}=28.8 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$ and calculate $\\Delta U$.",
+        "answer": "-20",
+        "unit": "$\\text{J}$ ",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 55,
+        "question": "The mass density of water vapour at $327.6 \\mathrm{~atm}$ and $776.4 \\mathrm{~K}$ is $133.2 \\mathrm{~kg} \\mathrm{~m}^{-3}$. Given that for water $T_{\\mathrm{c}}=647.4 \\mathrm{~K}, p_{\\mathrm{c}}=218.3 \\mathrm{~atm}, a=5.464 \\mathrm{dm}^6 \\mathrm{~atm} \\mathrm{~mol}^{-2}$, $b=0.03049 \\mathrm{dm}^3 \\mathrm{~mol}^{-1}$, and $M=18.02 \\mathrm{~g} \\mathrm{~mol}^{-1}$, calculate the molar volume.",
+        "answer": "0.1353",
+        "unit": "$\\mathrm{dm}^3 \\mathrm{~mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 56,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Consider a system consisting of $2.0 \\mathrm{~mol} \\mathrm{CO}_2(\\mathrm{~g})$, initially at $25^{\\circ} \\mathrm{C}$ and $10 \\mathrm{~atm}$ and confined to a cylinder of cross-section $10.0 \\mathrm{~cm}^2$. It is allowed to expand adiabatically against an external pressure of 1.0 atm until the piston has moved outwards through $20 \\mathrm{~cm}$. Assume that carbon dioxide may be considered a perfect gas with $C_{V, \\mathrm{~m}}=28.8 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$ and calculate $q$.",
+        "answer": "0",
+        "unit": "",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 57,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. A sample consisting of $3.00 \\mathrm{~mol}$ of diatomic perfect gas molecules at $200 \\mathrm{~K}$ is compressed reversibly and adiabatically until its temperature reaches $250 \\mathrm{~K}$. Given that $C_{V, \\mathrm{~m}}=27.5 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$, calculate $\\Delta S$.",
+        "answer": "0",
+        "unit": "",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 58,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Consider a system consisting of $2.0 \\mathrm{~mol} \\mathrm{CO}_2(\\mathrm{~g})$, initially at $25^{\\circ} \\mathrm{C}$ and $10 \\mathrm{~atm}$ and confined to a cylinder of cross-section $10.0 \\mathrm{~cm}^2$. It is allowed to expand adiabatically against an external pressure of 1.0 atm until the piston has moved outwards through $20 \\mathrm{~cm}$. Assume that carbon dioxide may be considered a perfect gas with $C_{V, \\mathrm{~m}}=28.8 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$ and calculate $\\Delta S$.",
+        "answer": "0.6",
+        "unit": "$\\mathrm{J} \\mathrm{K}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 59,
+        "question": "The mass density of water vapour at $327.6 \\mathrm{~atm}$ and $776.4 \\mathrm{~K}$ is $133.2 \\mathrm{~kg} \\mathrm{~m}^{-3}$. Given that for water $T_{\\mathrm{c}}=647.4 \\mathrm{~K}, p_{\\mathrm{c}}=218.3 \\mathrm{~atm}, a=5.464 \\mathrm{dm}^6 \\mathrm{~atm} \\mathrm{~mol}^{-2}$, $b=0.03049 \\mathrm{dm}^3 \\mathrm{~mol}^{-1}$, and $M=18.02 \\mathrm{~g} \\mathrm{~mol}^{-1}$, calculate the compression factor from the virial expansion of the van der Waals equation.",
+        "answer": "0.7158",
+        "unit": "",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 60,
+        "question": "The mass density of water vapour at $327.6 \\mathrm{~atm}$ and $776.4 \\mathrm{~K}$ is $133.2 \\mathrm{~kg} \\mathrm{~m}^{-3}$. Given that for water $T_{\\mathrm{c}}=647.4 \\mathrm{~K}, p_{\\mathrm{c}}=218.3 \\mathrm{~atm}, a=5.464 \\mathrm{dm}^6 \\mathrm{~atm} \\mathrm{~mol}^{-2}$, $b=0.03049 \\mathrm{dm}^3 \\mathrm{~mol}^{-1}$, and $M=18.02 \\mathrm{~g} \\mathrm{~mol}^{-1}$, calculate the compression factor from the data.",
+        "answer": "0.6957",
+        "unit": "",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 61,
+        "question": "A certain gas obeys the van der Waals equation with $a=0.50 \\mathrm{~m}^6 \\mathrm{~Pa}$ $\\mathrm{mol}^{-2}$. Its volume is found to be $5.00 \\times 10^{-4} \\mathrm{~m}^3 \\mathrm{~mol}^{-1}$ at $273 \\mathrm{~K}$ and $3.0 \\mathrm{MPa}$. From this information calculate the van der Waals constant $b$. What is the compression factor for this gas at the prevailing temperature and pressure?",
+        "answer": "0.66",
+        "unit": "",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 62,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. A sample consisting of $3.00 \\mathrm{~mol}$ of diatomic perfect gas molecules at $200 \\mathrm{~K}$ is compressed reversibly and adiabatically until its temperature reaches $250 \\mathrm{~K}$. Given that $C_{V, \\mathrm{~m}}=27.5 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$, calculate $\\Delta H$.",
+        "answer": "5.4",
+        "unit": "$\\text{kJ}$ ",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 63,
+        "question": "A sample of $255 \\mathrm{mg}$ of neon occupies $3.00 \\mathrm{dm}^3$ at $122 \\mathrm{K}$. Use the perfect gas law to calculate the pressure of the gas.",
+        "answer": "$4.20 \\times 10^{-2}$",
+        "unit": " $\\text{atm}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 64,
+        "question": "Use the van der Waals parameters for chlorine to calculate approximate values of the Boyle temperature of chlorine.",
+        "answer": "$1.41 \\times 10^3$",
+        "unit": " $\\mathrm{K}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 65,
+        "question": "Assume that all gases are perfect and that data refer to 298.15 K unless otherwise stated. Consider a system consisting of $2.0 \\mathrm{~mol} \\mathrm{CO}_2(\\mathrm{~g})$, initially at $25^{\\circ} \\mathrm{C}$ and $10 \\mathrm{~atm}$ and confined to a cylinder of cross-section $10.0 \\mathrm{~cm}^2$. It is allowed to expand adiabatically against an external pressure of 1.0 atm until the piston has moved outwards through $20 \\mathrm{~cm}$. Assume that carbon dioxide may be considered a perfect gas with $C_{V, \\mathrm{~m}}=28.8 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$ and calculate $\\Delta T$.",
+        "answer": "-0.347",
+        "unit": "$\\text{K}$ ",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 66,
+        "question": "Assume all gases are perfect unless stated otherwise. Note that 1 atm = 1.013 25 bar. Unless otherwise stated, thermochemical data are for 298.15 K. A sample consisting of $2.0 \\mathrm{~mol} \\mathrm{CO}_2$ occupies a fixed volume of $15.0 \\mathrm{dm}^3$ at $300 \\mathrm{~K}$. When it is supplied with $2.35 \\mathrm{~kJ}$ of energy as heat its temperature increases to $341 \\mathrm{~K}$. Assume that $\\mathrm{CO}_2$ is described by the van der Waals equation of state, and calculate $\\Delta U$.",
+        "answer": "2.35",
+        "unit": "$\\text{kJ}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 67,
+        "question": "The change in molar internal energy when $\\mathrm{CaCO}_3(\\mathrm{~s})$ as calcite converts to another form, aragonite, is $+0.21 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$. Calculate the difference between the molar enthalpy and internal energy changes when the pressure is 1.0 bar given that the densities of the polymorphs are $2.71 \\mathrm{~g} \\mathrm{~cm}^{-3}$ and $2.93 \\mathrm{~g} \\mathrm{~cm}^{-3}$, respectively.",
+        "answer": "-0.28",
+        "unit": " $\\mathrm{~Pa} \\mathrm{~m}^3 \\mathrm{~mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 68,
+        "question": "Suppose the concentration of a solute decays exponentially along the length of a container. Calculate the thermodynamic force on the solute at $25^{\\circ} \\mathrm{C}$ given that the concentration falls to half its value in $10 \\mathrm{~cm}$.",
+        "answer": "17",
+        "unit": " $\\mathrm{kN} \\mathrm{mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 69,
+        "question": "A container is divided into two equal compartments. One contains $3.0 \\mathrm{~mol} \\mathrm{H}_2(\\mathrm{~g})$ at $25^{\\circ} \\mathrm{C}$; the other contains $1.0 \\mathrm{~mol} \\mathrm{~N}_2(\\mathrm{~g})$ at $25^{\\circ} \\mathrm{C}$. Calculate the Gibbs energy of mixing when the partition is removed. Assume perfect behaviour.",
+        "answer": "-6.9",
+        "unit": " $\\mathrm{~kJ}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 70,
+        "question": "Caesium (m.p. $29^{\\circ} \\mathrm{C}$, b.p. $686^{\\circ} \\mathrm{C}$ ) was introduced into a container and heated to $500^{\\circ} \\mathrm{C}$. When a hole of diameter $0.50 \\mathrm{~mm}$ was opened in the container for $100 \\mathrm{~s}$, a mass loss of $385 \\mathrm{mg}$ was measured. Calculate the vapour pressure of liquid caesium at $500 \\mathrm{~K}$.",
+        "answer": "8.7",
+        "unit": " $\\mathrm{kPa}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 71,
+        "question": "Calculate the typical wavelength of neutrons that have reached thermal equilibrium with their surroundings at $373 \\mathrm{~K}$.\n",
+        "answer": "226",
+        "unit": " $\\mathrm{pm}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 72,
+        "question": "Calculate the separation of the $\\{123\\}$ planes of an orthorhombic unit cell with $a=0.82 \\mathrm{~nm}, b=0.94 \\mathrm{~nm}$, and $c=0.75 \\mathrm{~nm}$.",
+        "answer": "0.21",
+        "unit": " $\\mathrm{~nm}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 73,
+        "question": "Calculate the moment of inertia of an $\\mathrm{H}_2 \\mathrm{O}$ molecule around the axis defined by the bisector of the $\\mathrm{HOH}$ angle (3). The $\\mathrm{HOH}$ bond angle is $104.5^{\\circ}$ and the bond length is $95.7 \\mathrm{pm}$.",
+        "answer": "1.91",
+        "unit": " $10^{-47} \\mathrm{~kg} \\mathrm{~m}^2$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 74,
+        "question": "The data below show the temperature variation of the equilibrium constant of the reaction $\\mathrm{Ag}_2 \\mathrm{CO}_3(\\mathrm{~s}) \\rightleftharpoons \\mathrm{Ag}_2 \\mathrm{O}(\\mathrm{s})+\\mathrm{CO}_2(\\mathrm{~g})$. Calculate the standard reaction enthalpy of the decomposition.\n$\\begin{array}{lllll}T / \\mathrm{K} & 350 & 400 & 450 & 500 \\\\ K & 3.98 \\times 10^{-4} & 1.41 \\times 10^{-2} & 1.86 \\times 10^{-1} & 1.48\\end{array}$",
+        "answer": "80",
+        "unit": " $\\mathrm{~kJ} \\mathrm{~mol}^{-1}$",
+        "reference": "atkins",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 75,
+        "question": "Calculate the de Broglie wavelength for an electron with a kinetic energy of $100 \\mathrm{eV}$",
+        "answer": "0.123",
+        "unit": "nm ",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 76,
+        "question": "A helium-neon laser (used in supermarket scanners) emits light at $632.8 \\mathrm{~nm}$. Calculate the frequency of this light.",
+        "answer": "4.738",
+        "unit": "$10^{14} \\mathrm{~Hz}$ ",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 77,
+        "question": "Calculate the wavelength and the energy of a photon associated with the series limit of the Lyman series.",
+        "answer": "91.17",
+        "unit": "nm ",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 78,
+        "question": "Calculate the percentage difference between $\\ln (1+x)$ and $x$ for $x=0.0050$",
+        "answer": "0.249",
+        "unit": " %",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 79,
+        "question": "Calculate the reduced mass of a nitrogen molecule in which both nitrogen atoms have an atomic mass of 14.00.",
+        "answer": "7",
+        "unit": "",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 80,
+        "question": "Calculate the energy associated with an $\\alpha$ particle that has fallen through a potential difference of $4.0 \\mathrm{~V}$. Take the mass of an $\\alpha$ particle to be $6.64 \\times 10^{-27} \\mathrm{~kg}$.",
+        "answer": "1.3",
+        "unit": "$10^{-18} \\mathrm{~J} / \\alpha \\text {-particle}$",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 81,
+        "question": "Calculate the number of photons in a $2.00 \\mathrm{~mJ}$ light pulse at (a) $1.06 \\mu \\mathrm{m}$\n",
+        "answer": "1.07",
+        "unit": " $10^{16}$ photons",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 82,
+        "question": "The force constant of ${ }^{35} \\mathrm{Cl}^{35} \\mathrm{Cl}$ is $319 \\mathrm{~N} \\cdot \\mathrm{m}^{-1}$. Calculate the fundamental vibrational frequency",
+        "answer": "556",
+        "unit": " $\\mathrm{~cm}^{-1}$",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 83,
+        "question": "$$\n\\text {Calculate the energy of a photon for a wavelength of } 100 \\mathrm{pm} \\text { (about one atomic diameter). }\n$$\n",
+        "answer": "2",
+        "unit": " $10^{-15} \\mathrm{~J}$",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 84,
+        "question": " In the infrared spectrum of $\\mathrm{H}^{127} \\mathrm{I}$, there is an intense line at $2309 \\mathrm{~cm}^{-1}$. Calculate the force constant of $\\mathrm{H}^{127} \\mathrm{I}$.",
+        "answer": "313",
+        "unit": " $ \\mathrm{~N} \\cdot \\mathrm{m}^{-1}$",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 85,
+        "question": "Calculate the percentage difference between $e^x$ and $1+x$ for $x=0.0050$",
+        "answer": "1.25",
+        "unit": " $10^{-3} \\%$",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 86,
+        "question": "Calculate the kinetic energy of an electron in a beam of electrons accelerated by a voltage increment of $100 \\mathrm{~V}$",
+        "answer": "1.602",
+        "unit": " $10^{-17} \\mathrm{~J} \\cdot$ electron ${ }^{-1}$",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 87,
+        "question": "Example 5-3 shows that a Maclaurin expansion of a Morse potential leads to\n$$\nV(x)=D \\beta^2 x^2+\\cdots\n$$\nGiven that $D=7.31 \\times 10^{-19} \\mathrm{~J} \\cdot$ molecule ${ }^{-1}$ and $\\beta=1.81 \\times 10^{10} \\mathrm{~m}^{-1}$ for $\\mathrm{HCl}$, calculate the force constant of $\\mathrm{HCl}$.",
+        "answer": "479",
+        "unit": "$\\mathrm{~N} \\cdot \\mathrm{m}^{-1}$ ",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 88,
+        "question": "Using the Bohr theory, calculate the ionization energy (in electron volts and in $\\mathrm{kJ} \\cdot \\mathrm{mol}^{-1}$ ) of singly ionized helium.",
+        "answer": "54.394",
+        "unit": "$\\mathrm{eV}$ ",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 89,
+        "question": "A proton and a negatively charged $\\mu$ meson (called a muon) can form a short-lived species called a mesonic atom. The charge of a muon is the same as that on an electron and the mass of a muon is $207 m_{\\mathrm{e}}$. Assume that the Bohr theory can be applied to such a mesonic atom and calculate the frequency associated with the $n=1$ to $n=2$ transition in a mesonic atom.",
+        "answer": "1.69",
+        "unit": "$10^{17} \\mathrm{~Hz}$",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 90,
+        "question": "$$\n\\beta=2 \\pi c \\tilde{\\omega}_{\\mathrm{obs}}\\left(\\frac{\\mu}{2 D}\\right)^{1 / 2}\n$$\nGiven that $\\tilde{\\omega}_{\\mathrm{obs}}=2886 \\mathrm{~cm}^{-1}$ and $D=440.2 \\mathrm{~kJ} \\cdot \\mathrm{mol}^{-1}$ for $\\mathrm{H}^{35} \\mathrm{Cl}$, calculate $\\beta$.",
+        "answer": "1.81",
+        "unit": " $10^{10} \\mathrm{~m}^{-1}$",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 91,
+        "question": "It turns out that the solution of the Schrödinger equation for the Morse potential can be expressed as\n$$\nG(v)=\\tilde{\\omega}_{\\mathrm{e}}\\left(v+\\frac{1}{2}\\right)-\\tilde{\\omega}_{\\mathrm{e}} \\tilde{x}_{\\mathrm{e}}\\left(v+\\frac{1}{2}\\right)^2\n$$\nThe Harmonic Oscillator and Vibrational Spectroscopy\nwhere\n$$\n\\tilde{x}_{\\mathrm{e}}=\\frac{h c \\tilde{\\omega}_{\\mathrm{e}}}{4 D}\n$$\nGiven that $\\tilde{\\omega}_{\\mathrm{e}}=2886 \\mathrm{~cm}^{-1}$ and $D=440.2 \\mathrm{~kJ} \\cdot \\mathrm{mol}^{-1}$ for $\\mathrm{H}^{35} \\mathrm{Cl}$, calculate $\\tilde{x}_{\\mathrm{e}}$.",
+        "answer": "0.01961",
+        "unit": "",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 92,
+        "question": "Calculate the de Broglie wavelength of an electron traveling at $1.00 \\%$ of the speed of light.",
+        "answer": "243",
+        "unit": " $\\mathrm{pm}$",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 93,
+        "question": "To a good approximation, the microwave spectrum of $\\mathrm{H}^{35} \\mathrm{Cl}$ consists of a series of equally spaced lines, separated by $6.26 \\times 10^{11} \\mathrm{~Hz}$. Calculate the bond length of $\\mathrm{H}^{35} \\mathrm{Cl}$.",
+        "answer": "129",
+        "unit": " $\\mathrm{pm}$",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 94,
+        "question": "Calculate the probability that a particle in a one-dimensional box of length $a$ is found between 0 and $a / 2$.",
+        "answer": "$\\frac{1}{2}$",
+        "unit": "",
+        "reference": "chemmc",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 95,
+        "question": "Radiation from an X-ray source consists of two components of wavelengths $154.433 \\mathrm{pm}$ and $154.051 \\mathrm{pm}$. Calculate the difference in glancing angles $(2 \\theta)$ of the diffraction lines arising from the two components in a diffraction pattern from planes of separation $77.8 \\mathrm{pm}$.",
+        "answer": "2.14",
+        "unit": " ${\\circ}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 96,
+        "question": "A chemical reaction takes place in a container of cross-sectional area $50 \\mathrm{~cm}^2$. As a result of the reaction, a piston is pushed out through $15 \\mathrm{~cm}$ against an external pressure of $1.0 \\mathrm{~atm}$. Calculate the work done by the system.",
+        "answer": "-75",
+        "unit": " $\\mathrm{~J}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 97,
+        "question": "Calculate the change in Gibbs energy of $35 \\mathrm{~g}$ of ethanol (mass density $0.789 \\mathrm{~g} \\mathrm{~cm}^{-3}$ ) when the pressure is increased isothermally from 1 atm to 3000 atm.",
+        "answer": "12",
+        "unit": " $\\mathrm{~kJ}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 98,
+        "question": "The promotion of an electron from the valence band into the conduction band in pure $\\mathrm{TIO}_2$ by light absorption requires a wavelength of less than $350 \\mathrm{~nm}$. Calculate the energy gap in electronvolts between the valence and conduction bands.",
+        "answer": "3.54",
+        "unit": " $\\mathrm{eV}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 99,
+        "question": "Suppose that the normalized wavefunction for an electron in a carbon nanotube of length $L=10.0 \\mathrm{~nm}$ is: $\\psi=(2 / L)^{1 / 2} \\sin (\\pi x / L)$. Calculate the probability that the electron is between $x=4.95 \\mathrm{~nm}$ and $5.05 \\mathrm{~nm}$.",
+        "answer": "0.02",
+        "unit": "",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 100,
+        "question": "A sample of the sugar D-ribose of mass $0.727 \\mathrm{~g}$ was placed in a calorimeter and then ignited in the presence of excess oxygen. The temperature rose by $0.910 \\mathrm{~K}$. In a separate experiment in the same calorimeter, the combustion of $0.825 \\mathrm{~g}$ of benzoic acid, for which the internal energy of combustion is $-3251 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$, gave a temperature rise of $1.940 \\mathrm{~K}$. Calculate the enthalpy of formation of D-ribose.",
+        "answer": "-1270",
+        "unit": " $\\mathrm{~kJ} \\mathrm{~mol}^{-1}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 101,
+        "question": "Calculate the molar energy required to reverse the direction of an $\\mathrm{H}_2 \\mathrm{O}$ molecule located $100 \\mathrm{pm}$ from a $\\mathrm{Li}^{+}$ ion. Take the magnitude of the dipole moment of water as $1.85 \\mathrm{D}$.",
+        "answer": "1.07",
+        "unit": " $10^3 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 102,
+        "question": "Suppose that the junction between two semiconductors can be represented by a barrier of height $2.0 \\mathrm{eV}$ and length $100 \\mathrm{pm}$. Calculate the transmission probability of an electron with energy $1.5 \\mathrm{eV}$.",
+        "answer": "0.8",
+        "unit": "",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 103,
+        "question": "The equilibrium pressure of $\\mathrm{O}_2$ over solid silver and silver oxide, $\\mathrm{Ag}_2 \\mathrm{O}$, at $298 \\mathrm{~K}$ is $11.85 \\mathrm{~Pa}$. Calculate the standard Gibbs energy of formation of $\\mathrm{Ag}_2 \\mathrm{O}(\\mathrm{s})$ at $298 \\mathrm{~K}$.",
+        "answer": "-11.2",
+        "unit": " $\\mathrm{~kJ}   \\mathrm{~mol}^{-1}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 104,
+        "question": "The NOF molecule is an asymmetric rotor with rotational constants $3.1752 \\mathrm{~cm}^{-1}, 0.3951 \\mathrm{~cm}^{-1}$, and $0.3505 \\mathrm{~cm}^{-1}$. Calculate the rotational partition function of the molecule at $25^{\\circ} \\mathrm{C}$.",
+        "answer": "7.97",
+        "unit": "$10^3$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 105,
+        "question": "Suppose that $2.5 \\mathrm{mmol} \\mathrm{N}_2$ (g) occupies $42 \\mathrm{~cm}^3$ at $300 \\mathrm{~K}$ and expands isothermally to $600 \\mathrm{~cm}^3$. Calculate $\\Delta G$ for the process.",
+        "answer": "-17",
+        "unit": " $\\mathrm{~J}$ ",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 106,
+        "question": "Calculate the standard potential of the $\\mathrm{Ce}^{4+} / \\mathrm{Ce}$ couple from the values for the $\\mathrm{Ce}^{3+} / \\mathrm{Ce}$ and $\\mathrm{Ce}^{4+} / \\mathrm{Ce}^{3+}$ couples.\n",
+        "answer": "-1.46",
+        "unit": " $\\mathrm{V}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 107,
+        "question": "When ultraviolet radiation of wavelength $58.4 \\mathrm{~nm}$ from a helium lamp is directed on to a sample of krypton, electrons are ejected with a speed of $1.59 \\times 10^6 \\mathrm{~m} \\mathrm{~s}^{-1}$. Calculate the ionization energy of krypton.\n",
+        "answer": "14",
+        "unit": " $\\mathrm{eV}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 108,
+        "question": "Calculate $\\Delta_{\\mathrm{r}} G^{\\ominus}(375 \\mathrm{~K})$ for the reaction $2 \\mathrm{CO}(\\mathrm{g})+\\mathrm{O}_2(\\mathrm{~g}) \\rightarrow 2 \\mathrm{CO}_2(\\mathrm{~g})$ from the values of $\\Delta_{\\mathrm{r}} G^{\\ominus}(298 \\mathrm{~K})$ : and $\\Delta_{\\mathrm{r}} H^{\\ominus}(298 \\mathrm{~K})$, and the GibbsHelmholtz equation.",
+        "answer": "-501",
+        "unit": "$\\mathrm{~kJ} \\mathrm{~mol}^{-1}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 109,
+        "question": "The vapour pressure of benzene is $53.3 \\mathrm{kPa}$ at $60.6^{\\circ} \\mathrm{C}$, but it fell to $51.5 \\mathrm{kPa}$ when $19.0 \\mathrm{~g}$ of an non-volatile organic compound was dissolved in $500 \\mathrm{~g}$ of benzene. Calculate the molar mass of the compound.",
+        "answer": "85",
+        "unit": " $\\mathrm{~g} \\mathrm{~mol}^{-1}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 110,
+        "question": "The ground level of $\\mathrm{Cl}$ is ${ }^2 \\mathrm{P}_{3 / 2}$ and a ${ }^2 \\mathrm{P}_{1 / 2}$ level lies $881 \\mathrm{~cm}^{-1}$ above it. Calculate the electronic contribution to the molar Gibbs energy of $\\mathrm{Cl}$ atoms at  $500 \\mathrm{~K}$.",
+        "answer": "-6.42",
+        "unit": " $\\mathrm{~kJ} \\mathrm{~mol}^{-1}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 111,
+        "question": "Calculate the melting point of ice under a pressure of 50 bar. Assume that the density of ice under these conditions is approximately $0.92 \\mathrm{~g} \\mathrm{~cm}^{-3}$ and that of liquid water is $1.00 \\mathrm{~g} \\mathrm{~cm}^{-3}$.",
+        "answer": "272.8",
+        "unit": " $\\mathrm{K}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 112,
+        "question": "At $300 \\mathrm{~K}$ and $20 \\mathrm{~atm}$, the compression factor of a gas is 0.86 . Calculate the volume occupied by $8.2 \\mathrm{mmol}$ of the gas under these conditions.",
+        "answer": "8.7",
+        "unit": " $\\mathrm{~cm}^3$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 113,
+        "question": "An electron confined to a metallic nanoparticle is modelled as a particle in a one-dimensional box of length $L$. If the electron is in the state $n=1$, calculate the probability of finding it in the following regions: $0 \\leq x \\leq \\frac{1}{2} L$.",
+        "answer": " $\\frac{1}{2}$",
+        "unit": "",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 114,
+        "question": "A swimmer enters a gloomier world (in one sense) on diving to greater depths. Given that the mean molar absorption coefficient of seawater in the visible region is $6.2 \\times 10^{-3} \\mathrm{dm}^3 \\mathrm{~mol}^{-1} \\mathrm{~cm}^{-1}$, calculate the depth at which a diver will experience half the surface intensity of light.",
+        "answer": "0.87",
+        "unit": " $\\mathrm{~m}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 115,
+        "question": "The vibrational wavenumber of $\\mathrm{Br}_2$ is $323.2 \\mathrm{~cm}^{-1}$. By evaluating the vibrational partition function explicitly (without approximation), at what temperature is the value within 5 per cent of the value calculated from the approximate formula?",
+        "answer": "4500",
+        "unit": "$\\mathrm{~K}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 116,
+        "question": "Calculating the maximum wavelength capable of photoejection\nA photon of radiation of wavelength $305 \\mathrm{~nm}$ ejects an electron from a metal with a kinetic energy of $1.77 \\mathrm{eV}$. Calculate the maximum wavelength of radiation capable of ejecting an electron from the metal.",
+        "answer": "540",
+        "unit": "$\\mathrm{~nm}$ ",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 117,
+        "question": "Calculate the typical wavelength of neutrons after reaching thermal equilibrium with their surroundings at $373 \\mathrm{~K}$. For simplicity, assume that the particles are travelling in one dimension.",
+        "answer": "226",
+        "unit": "$\\mathrm{pm}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 118,
+        "question": "Using the perfect gas equation\nCalculate the pressure in kilopascals exerted by $1.25 \\mathrm{~g}$ of nitrogen gas in a flask of volume $250 \\mathrm{~cm}^3$ at $20^{\\circ} \\mathrm{C}$.",
+        "answer": "435",
+        "unit": " $\\mathrm{kPa}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 119,
+        "question": "Calculate the shielding constant for the proton in a free $\\mathrm{H}$ atom.",
+        "answer": "1.775",
+        "unit": " $10^{-5}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 120,
+        "question": "When an electric discharge is passed through gaseous hydrogen, the $\\mathrm{H}_2$ molecules are dissociated and energetically excited $\\mathrm{H}$ atoms are produced. If the electron in an excited $\\mathrm{H}$ atom makes a transition from $n=2$ to $n=1$, calculate the wavenumber of the corresponding line in the emission spectrum.",
+        "answer": "82258",
+        "unit": " $\\mathrm{~cm}^{-1}$",
+        "reference": "matter",
+        "source": "SciBench",
+        "class": "Physical"
+    },
+    {
+        "index": 121,
+        "question": "Calculate the energy of one mole of UV photons of wavelength $300 \\mathrm{~nm}$ and compare it with a typical single-bond energy of $400 \\mathrm{~kJ} / \\mathrm{mol}$.",
+        "answer": "399",
+        "unit": " $\\mathrm{~kJ} / \\mathrm{mol}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 122,
+        "question": "Calculate the magnitude of the spin angular momentum of a proton. Give a numerical answer. ",
+        "answer": "9.13",
+        "unit": " $10^{-35} \\mathrm{~J} \\mathrm{~s}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 123,
+        "question": "The ${ }^7 \\mathrm{Li}^1 \\mathrm{H}$ ground electronic state has $D_0=2.4287 \\mathrm{eV}, \\nu_e / c=1405.65 \\mathrm{~cm}^{-1}$, and $\\nu_e x_e / c=23.20 \\mathrm{~cm}^{-1}$, where $c$ is the speed of light. (These last two quantities are usually designated $\\omega_e$ and $\\omega_e x_e$ in the literature.) Calculate $D_e$ for ${ }^7 \\mathrm{Li}^1 \\mathrm{H}$.",
+        "answer": "2.5151",
+        "unit": " $\\mathrm{eV}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 124,
+        "question": "The positron has charge $+e$ and mass equal to the electron mass. Calculate in electronvolts the ground-state energy of positronium-an \"atom\" that consists of a positron and an electron.",
+        "answer": "-6.8",
+        "unit": "$\\mathrm{eV}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 125,
+        "question": "Calculate the energy needed to compress three carbon-carbon single bonds and stretch three carbon-carbon double bonds to the benzene bond length $1.397 Å$. Assume a harmonicoscillator potential-energy function for bond stretching and compression. Typical carboncarbon single- and double-bond lengths are 1.53 and $1.335 Å$; typical stretching force constants for carbon-carbon single and double bonds are 500 and $950 \\mathrm{~N} / \\mathrm{m}$.",
+        "answer": "27",
+        "unit": " $\\mathrm{kcal} / \\mathrm{mol}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 126,
+        "question": "Calculate the de Broglie wavelength of an electron moving at 1/137th the speed of light. (At this speed, the relativistic correction to the mass is negligible.)",
+        "answer": "0.332",
+        "unit": "$\\mathrm{~nm}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 127,
+        "question": "Calculate the angle that the spin vector $S$ makes with the $z$ axis for an electron with spin function $\\alpha$.",
+        "answer": "54.7",
+        "unit": " $^{\\circ}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 128,
+        "question": "Calculate the ratio of the electrical and gravitational forces between a proton and an electron.",
+        "answer": "2",
+        "unit": " $10^{39}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 129,
+        "question": "An electron in a three-dimensional rectangular box with dimensions of $5.00 Å, 3.00 Å$, and $6.00 Å$ makes a radiative transition from the lowest-lying excited state to the ground state. Calculate the frequency of the photon emitted.",
+        "answer": "7.58",
+        "unit": " $10^{14} \\mathrm{~s}^{-1}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 130,
+        "question": "Do $\\mathrm{HF} / 6-31 \\mathrm{G}^*$ geometry optimizations on one conformers of $\\mathrm{HCOOH}$ with $\\mathrm{OCOH}$ dihedral angle of $0^{\\circ}$. Calculate the dipole moment.",
+        "answer": "1.41",
+        "unit": " $\\mathrm{D}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 131,
+        "question": "Calculate the force on an alpha particle passing a gold atomic nucleus at a distance of $0.00300 Å$.",
+        "answer": "0.405",
+        "unit": " $\\mathrm{~N}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 132,
+        "question": "The contribution of molecular vibrations to the molar internal energy $U_{\\mathrm{m}}$ of a gas of nonlinear $N$-atom molecules is (zero-point vibrational energy not included) $U_{\\mathrm{m}, \\mathrm{vib}}=R \\sum_{s=1}^{3 N-6} \\theta_s /\\left(e^{\\theta_s / T}-1\\right)$, where $\\theta_s \\equiv h \\nu_s / k$ and $\\nu_s$ is the vibrational frequency of normal mode $s$. Calculate the contribution to $U_{\\mathrm{m}, \\text { vib }}$ at $25^{\\circ} \\mathrm{C}$ of a normal mode with wavenumber $\\widetilde{v} \\equiv v_s / c$ of $900 \\mathrm{~cm}^{-1}$.",
+        "answer": "0.14",
+        "unit": " $\\mathrm{kJ} / \\mathrm{mol}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 133,
+        "question": "Calculate the magnitude of the spin magnetic moment of an electron.",
+        "answer": "1.61",
+        "unit": " $10^{-23} \\mathrm{~J} / \\mathrm{T}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 134,
+        "question": "Calculate the uncertainty $\\Delta L_z$ for the hydrogen-atom stationary state: $2 p_z$.",
+        "answer": "0",
+        "unit": "",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 135,
+        "question": "Use the $D_0$ value of $\\mathrm{H}_2(4.478 \\mathrm{eV})$ and the $D_0$ value of $\\mathrm{H}_2^{+}(2.651 \\mathrm{eV})$ to calculate the first ionization energy of $\\mathrm{H}_2$ (that is, the energy needed to remove an electron from $\\mathrm{H}_2$ ).",
+        "answer": "15.425",
+        "unit": " $\\mathrm{eV}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 136,
+        "question": "The AM1 valence electronic energies of the atoms $\\mathrm{H}$ and $\\mathrm{O}$ are $-11.396 \\mathrm{eV}$ and $-316.100 \\mathrm{eV}$, respectively. For $\\mathrm{H}_2 \\mathrm{O}$ at its AM1-calculated equilibrium geometry, the AM1 valence electronic energy (core-core repulsion omitted) is $-493.358 \\mathrm{eV}$ and the AM1 core-core repulsion energy is $144.796 \\mathrm{eV}$. For $\\mathrm{H}(g)$ and $\\mathrm{O}(g), \\Delta H_{f, 298}^{\\circ}$ values are 52.102 and $59.559 \\mathrm{kcal} / \\mathrm{mol}$, respectively. Find the AM1 prediction of $\\Delta H_{f, 298}^{\\circ}$ of $\\mathrm{H}_2 \\mathrm{O}(g)$.",
+        "answer": "-59.24",
+        "unit": " $\\mathrm{kcal} / \\mathrm{mol}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 137,
+        "question": "A particle is subject to the potential energy $V=a x^4+b y^4+c z^4$. If its ground-state energy is $10 \\mathrm{eV}$, calculate $\\langle V\\rangle$ for the ground state.",
+        "answer": " $3\\frac{1}{3}$",
+        "unit": " $\\mathrm{eV}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 138,
+        "question": "Calculate the ground-state energy of the hydrogen atom using SI units and convert the result to electronvolts.",
+        "answer": "-13.598",
+        "unit": " $\\mathrm{eV}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 139,
+        "question": "In this example, $2.50 \\mathrm{~mol}$ of an ideal gas with $C_{V, m}=12.47 \\mathrm{~J} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$ is expanded adiabatically against a constant external pressure of 1.00 bar. The initial temperature and pressure of the gas are $325 \\mathrm{~K}$ and $2.50 \\mathrm{bar}$, respectively. The final pressure is 1.25 bar. Calculate the final $ \\Delta U$.",
+        "answer": "-1.78",
+        "unit": " $\\mathrm{~kJ}$",
+        "reference": "quan",
+        "source": "SciBench",
+        "class": "Quantum"
+    },
+    {
+        "index": 140,
+        "question": "Calculate the magnetic moment (Ã×I) of a 13C nucleus.",
+        "answer": "$9.1445 \\times 10^{-27}$",
+        "unit": " J T-1",
+        "reference": "MMLU",
+        "source": "MMLU",
+        "class": "Physical"
+    },
+    {
+        "index": 141,
+        "question": "Calculate the Larmor frequency for a proton in a magnetic field of 1 T.",
+        "answer": "42.58",
+        "unit": "MHz",
+        "reference": "MMLU",
+        "source": "MMLU",
+        "class": "Physical"
+    },
+    {
+        "index": 142,
+        "question": "The X-band (9.5 GHz) EPR spectrum of a matrix isolated Na atom reveals four hyperfine lines with resonant field positions of 3074 G, 3174 G, 3274 G and 3374 G. Calculate the g value of the atom.",
+        "answer": "2.002",
+        "unit": "",
+        "reference": "MMLU",
+        "source": "MMLU",
+        "class": "Physical"
+    },
+    {
+        "index": 143,
+        "question": "Calculate the spin angular momentum of 43Ca. [I = 7?2]",
+        "answer": "$4.185 \\times 10^{-34{$",
+        "unit": " J s",
+        "reference": "MMLU",
+        "source": "MMLU",
+        "class": "Physical"
+    },
+    {
+        "index": 144,
+        "question": "Calculate the magnetic field responsible for the polarization of 2.5 x 10^-6 for 13C at 298 K.",
+        "answer": "2.9",
+        "unit": "T",
+        "reference": "MMLU",
+        "source": "MMLU",
+        "class": "Physical"
+    },
+    {
+        "index": 145,
+        "question": "The T2 of an NMR line is 15 ms. Ignoring other sources of linebroadening, calculate its linewidth.",
+        "answer": "21.2",
+        "unit": " Hz",
+        "reference": "MMLU",
+        "source": "MMLU",
+        "class": "Analytical"
+    },
+    {
+        "index": 146,
+        "question": "Calculate the Q-factor for an X-band EPR cavity with a resonator bandwidth of 1.58 MHz.",
+        "answer": "6012",
+        "unit": "",
+        "reference": "MMLU",
+        "source": "MMLU",
+        "class": "Physical"
+    },
+    {
+        "index": 147,
+        "question": "Calculate spin density on the central carbon atom of malonic acid radical (?CH(COOH)2) if the hyperfine value for the Ï«-hydrogen atom is 21.9 G.",
+        "answer": "0.15",
+        "unit": "",
+        "reference": "MMLU",
+        "source": "MMLU",
+        "class": "Physical"
+    },
+    {
+        "index": 148,
+        "question": "Calculate the equilibrium polarization of 13C nuclei in a 20.0 T magnetic field at 300 K.",
+        "answer": "1.71 x 10^-5",
+        "unit": "",
+        "reference": "MMLU",
+        "source": "MMLU",
+        "class": "Physical"
+    },
+    {
+        "index": 149,
+        "question": "A PO3- radical produces a pair of lines separated by 280 MHz with giso = 2.005. Calculate the lower one of expected resonant field positions of both lines in the X-band EPR spectrum (ôé = 9.5 GHz).",
+        "answer": "0.218",
+        "unit": "mT",
+        "reference": "MMLU",
+        "source": "MMLU",
+        "class": "Physical"
+    },
+    {
+        "index": 150,
+        "question": "A PO3- radical produces a pair of lines separated by 280 MHz with giso = 2.005. Calculate the higher one of expected resonant field positions of both lines in the X-band EPR spectrum (ôé = 9.5 GHz).",
+        "answer": "0.418",
+        "unit": "mT",
+        "reference": "MMLU",
+        "source": "MMLU",
+        "class": "Physical"
+    },
+    {
+        "index": 151,
+        "question": "Calculate the relative occupancies of the Ï« and ÉÇ spin energy levels for a radical species with g = 2.05, at L-band frequencies (take TS = 300 K).",
+        "answer": "0.985",
+        "unit": "",
+        "reference": "MMLU",
+        "source": "MMLU",
+        "class": "Physical"
+    },
+    {
+        "index": 152,
+        "question": "Calculate the relative occupancies of the Ï« and ÉÇ spin energy levels for a radical species with g = 2.05, at W-band frequencies (take TS = 300 K).",
+        "answer": "0.9809",
+        "unit": "",
+        "reference": "MMLU",
+        "source": "MMLU",
+        "class": "Physical"
+    },
+    {
+        "index": 153,
+        "question": "Escherichia coli cells are about 2 Ã×m (microns) long and 0.8 Ã×m in diameter. How many E. coli cells laid end to end would fit across the diameter of a pinhead? (Assume a pinhead diameter of 0.5 mm.)",
+        "answer": "250.0",
+        "unit": "E.coli per pinhead",
+        "reference": "1.3",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 154,
+        "question": "Assume that mitochondria are cylinders 1.5 Ã×m in length and 0.6 Ã×m in diameter.    What is the volume of a single mitochondrion?",
+        "answer": "0.424",
+        "unit": "fL",
+        "reference": "1.4",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 155,
+        "question": "The genome of the Mycoplasma genitalium consists of 523 genes, encoding 484 proteins, in just 580,074 base pairs (Table 1.6). What fraction of the M. genitalium genes encodes proteins? What do you think the other genes encode? If the fraction of base pairs devoted to protein - coding genes is the same as the fraction of the total genes that they represent, what is the average number of base pairs per protein - coding gene? If it takes 3 base pairs to specify an amino acid in a protein, how many amino acids are found in the average M. genitalium protein? If each amino acid contributes on average 120 daltons to the mass of a protein, what is the mass of an average M. genitalium protein? What fraction of the M. genitalium genes encodes proteins? ",
+        "answer": "0.925",
+        "unit": "",
+        "reference": "1.12",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 156,
+        "question": "Virus genomes range in size from approximately 3500 nucleotides to approximately 280,000 base pairs. If viral genes are about the same size as M. genitalium genes, what is the maximum number of genes in viruses?",
+        "answer": "252.0",
+        "unit": "",
+        "reference": "1.14",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 157,
+        "question": "Calculating the pH of a solution of a weak acid; calculating the pH of the solution after the addition of strong base The ( K_{\\text{a}} ) for formic acid is ( 1.78 \\times 10^{-4} \\ M ). What is the pH of a ( 0.1 \\ M ) solution of formic acid?",
+        "answer": "2.38",
+        "unit": "",
+        "reference": "2.4",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 158,
+        "question": "Calculate the \\( \\text{HPO}_4^{2-}/\\text{H}_2\\text{PO}_4^- \\) in a muscle cell from the pH   If the internal pH of a muscle cell is 6.8, what is the \\( [\\text{HPO}_4^{2-}]/[\\text{H}_2\\text{PO}_4^-] \\) ratio in this cell?",
+        "answer": "0.398",
+        "unit": "",
+        "reference": "2.6",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 159,
+        "question": "Explore the bicarbonate/carbonic acid buffering system of blood plasma   At \\( 37^\\circ\\text{C} \\), if the plasma pH is 7.4 and the plasma concentration of \\( \\text{HCO}_3^- \\) is 15 mM, what is the plasma concentration of \\( \\text{H}_2\\text{CO}_3 \\)? What is the plasma concentration of \\( \\text{CO}_{2(\\text{dissolved})} \\)? If metabolic activity changes the concentration of \\( \\text{CO}_{2 \\ (\\text{dissolved})} \\) to 3 mM, and \\( [\\text{HCO}_3^-] \\) remains at 15 mM, what is the pH of the plasma?",
+        "answer": "6.8",
+        "unit": "",
+        "reference": "2.11",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 160,
+        "question": "A 100 - g amount of a solute was dissolved in 1000 g of water. The freezing point of this solution was measured accurately and determined to be \\(-1.12^\\circ\\text{C}\\). What is the molecular weight of the solute?",
+        "answer": "167.0",
+        "unit": "Da",
+        "reference": "2.14",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 161,
+        "question": "Calculating \\( K_{\\text{eq}} \\) and \\( \\Delta G \\) from concentrations   An enzymatic hydrolysis of fructose - 1 - P   $$\\text{Fructose-1-P} + \\text{H}_2\\text{O} \\rightleftharpoons \\text{fructose} + \\text{P}_i$$   was allowed to proceed to equilibrium at \\( 25^\\circ\\text{C} \\). The original concentration of fructose - 1 - P was \\( 0.2 \\ M \\), but when the system had reached equilibrium the concentration of fructose 1 - P was only \\( 6.52 \\times 10^{-5} \\ M \\). Calculate the equilibrium constant for this reaction.",
+        "answer": "613.0",
+        "unit": "M",
+        "reference": "3.1",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 162,
+        "question": "Calculating \\( K_{\\text{eq}} \\) and \\( \\Delta G \\) from concentrations   An enzymatic hydrolysis of fructose - 1 - P   $$\\text{Fructose-1-P} + \\text{H}_2\\text{O} \\rightleftharpoons \\text{fructose} + \\text{P}_i$$   was allowed to proceed to equilibrium at \\( 25^\\circ\\text{C} \\). The original concentration of fructose - 1 - P was \\( 0.2 \\ M \\), but when the system had reached equilibrium the concentration of fructose 1 - P was only \\( 6.52 \\times 10^{-5} \\ M \\). Calculate the standard free energy of hydrolysis of fructose 1 - P.",
+        "answer": "-15.9",
+        "unit": "kJ mol-1",
+        "reference": "3.1",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 163,
+        "question": "Calculating the effect of pH on \\(\\Delta G^\\circ\\)   ATP hydrolysis at pH 7.0 is accompanied by release of a hydrogen ion to the medium   $$\\text{ATP}^{4-} + \\text{H}_2\\text{O} \\rightleftharpoons \\text{ADP}^{3-} + \\text{HPO}_4^{2-} + \\text{H}^+$$   If the \\(\\Delta G'^\\circ\\) for this reaction is \\(-30.5 \\ \\text{kJ/mol}\\), what is \\(\\Delta G^\\circ\\) (that is, the free energy change for the same reaction with all components, including \\(\\text{H}^+\\), at a standard state of \\(1 \\ M\\))?",
+        "answer": "9.4",
+        "unit": "kJ mol-1",
+        "reference": "3.5",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 164,
+        "question": "Electrospray ionization mass spectrometry (ESI - MS) of the polypeptide chain of myoglobin yielded a series of \\(m/z\\) peaks (similar to those shown in Figure 5.21 for aerolysin K). Two successive peaks had \\(m/z\\) values of 1304.7 and 1413.2, respectively. Calculate the mass of the myoglobin polypeptide chain from these data.",
+        "answer": "16900.0",
+        "unit": "",
+        "reference": "5.11",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 165,
+        "question": "A teenager can grow 4 in. in a year during a \"growth spurt\". Assuming that the increase in height is due to vertical growth of collagen fibers (in bone), calculate the number of collagen helix turns synthesized per strand per minute.",
+        "answer": "201.0",
+        "unit": "turns/min",
+        "reference": "6.2",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 166,
+        "question": "The dissociation constant for a particular protein dimer is 1 micromolar. Calculate the free energy difference for the monomer to dimer transition.",
+        "answer": "34.2",
+        "unit": "kJ mol-1",
+        "reference": "6.2",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 167,
+        "question": "A 0.2 - g sample of amylopectin was analyzed to determine the fraction of the total glucose residues that are branch points in the structure. The sample was exhaustively methylated and then digested, yielding 50 Ã×mol of 2,3 - dimethylglucose and 0.4 Ã×mol of 1,2,3,6 - tetramethylglucose. What fraction of the total residues are branch points?",
+        "answer": "0.0405",
+        "unit": "",
+        "reference": "7.8",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 168,
+        "question": "A 0.2 - g sample of amylopectin was analyzed to determine the fraction of the total glucose residues that are branch points in the structure. The sample was exhaustively methylated and then digested, yielding 50 Ã×mol of 2,3 - dimethylglucose and 0.4 Ã×mol of 1,2,3,6 - tetramethylglucose. How many reducing ends does this amylopectin have?",
+        "answer": "2.4e+17",
+        "unit": "ends",
+        "reference": "",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 169,
+        "question": "The purple patches of the Halobacterium halobium membrane, which contain the protein bacteriorhodopsin, are approximately 75% protein and 25% lipid. If the protein molecular weight is 26,000 and an average phospholipid has a molecular weight of 800, calculate the phospholipid to protein mole ratio.",
+        "answer": "10.8",
+        "unit": "",
+        "reference": "9.2",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 170,
+        "question": "Phospholipid lateral motion in membranes is characterized by a diffusion coefficient of about \\(1 \\times 10^{-8} \\ \\text{cm}^2/\\text{sec}\\). The distance traveled in two dimensions (in the membrane) in a given time is \\(r = (4Dt)^{1/2}\\), where \\(r\\) is the distance traveled in centimeters, \\(D\\) is the diffusion coefficient, and \\(t\\) is the time during which diffusion occurs. Calculate the distance traveled by a phospholipid in a bilayer in 10 msec (milliseconds).",
+        "answer": "200.0",
+        "unit": "nm",
+        "reference": "9.4",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 171,
+        "question": "Consider a phospholipid vesicle containing \\(10 \\ \\text{mM}\\ \\text{Na}^+\\) ions. The vesicle is bathed in a solution that contains \\(52 \\ \\text{mM}\\ \\text{Na}^+\\) ions, and the electrical potential difference across the vesicle membrane \\(\\Delta \\psi = \\psi_{\\text{outside}} - \\psi_{\\text{inside}} = -30 \\ \\text{mV}\\). What is the electrochemical potential at \\(25^\\circ\\text{C}\\) for \\(\\text{Na}^+\\) ions?",
+        "answer": "1.19",
+        "unit": "kJ mol-1",
+        "reference": "9.8",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 172,
+        "question": "The haploid human genome consists of \\(3 \\times 10^9\\) base pairs. Using the logic in problem 15, one can calculate the minimum length of a unique DNA sequence expected to occur by chance just once in the human genome. That is, what is the length of a double - stranded DNA whose expected frequency of occurrence is once in the haploid human genome?",
+        "answer": "15.6",
+        "unit": "",
+        "reference": "10.16",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 173,
+        "question": "If 80% of the base pairs in a duplex DNA molecule (12.5 kbp) are in the B - conformation and 20% are in the Z - conformation, what is the long dimension of the molecule?",
+        "answer": "4.33",
+        "unit": "um",
+        "reference": "11.5",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 174,
+        "question": "The buoyant density of DNA is proportional to its (G + C) content. (G:C base pairs have more atoms per volume than A:T base pairs.) Calculate the density (\\(\\rho\\)) of avian tubercle bacillus DNA from the data presented in Table 10.1 and the equation \\(\\rho = 1.660 + 0.098\\ (\\text{GC})\\), where \\(\\text{GC}\\) is the mole fraction of (G + C) in DNA.",
+        "answer": "1.73",
+        "unit": "g/mL",
+        "reference": "11.12",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 175,
+        "question": "If \\( V_{max} = 100 \\ \\mu\\text{mol}/\\text{mL©{sec} \\) and \\( K_m = 2 \\ \\text{mM} \\), what is the velocity of the reaction when \\([S] = 20 \\ \\text{mM}\\)?",
+        "answer": "91.0",
+        "unit": "umol/(mL sec)",
+        "reference": "13.2",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 176,
+        "question": "The \\( k_{\\text{cat}} \\) for alkaline phosphatase - catalyzeded hydrolysis of methylphosphate is approximately 14/sec at pH 8 and \\( 25^\\circ\\text{C} \\). The rate constant for the uncatalyzed hydrolysis of methylphosphate under the same conditions is approximately \\( 1\\times10^{-15} \\)/sec. What is the difference in the activation free energies of these two reactions?",
+        "answer": "92.0",
+        "unit": "kJ/mol",
+        "reference": "14.5",
+        "source": "QCBench",
+        "class": "Biochemistry"
+    },
+    {
+        "index": 177,
+        "question": "What is the spin-only magnetic moment (in units of Bohr-magnetons) for the low-spin case of the metal complex \\ce{RhCl(CO)(PPh3)2}?",
+        "answer": "0.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 178,
+        "question": "Pauling used thermodynamic data to calculate the difference in electronegativity between two atoms A and B, $X(A) - X(B) = 0.102 \\sqrt{(Bd(AB) - \\frac{(Bd(AA)+Bd(BB)}{2})}$ , where Bd represents the bond dissociation energies, in \\pu{kJ mol^{-1}}, of the A-A, B-B and A-B bonds. What is the difference in electronegativity between \\ce{Cl} and \\ce{H}, given that Bd(\\ce{H2}) = \\pu{432 kJ mol^{-1}}, Bd(\\ce{Cl2}) = \\pu{244 kJ mol^{-1}} and Bd(\\ce{HCl}) = \\pu{427 kJ mol^{-1}}?",
+        "answer": "0.962",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 179,
+        "question": "Boron nitride has a wurtzite structure (w-BN). The unit cell of w-BN is a right rhombic prism, with cell parameters of d = \\pu{2.54 \\A} and e = \\pu{3.63 \\A} and interior angles of \\pu{60 deg} and \\pu{120 deg}. What is the number of B atoms in the unit cell of w-BN?",
+        "answer": "2.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 180,
+        "question": "Boron nitride has a wurtzite structure (w-BN). The unit cell of w-BN is a right rhombic prism, with cell parameters of d = \\pu{2.54 \\A} and e = \\pu{3.63 \\A} and interior angles of \\pu{60 deg} and \\pu{120 deg}. What is the number of N atoms in the unit cell of w-BN?",
+        "answer": "2.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 181,
+        "question": "As Pauling's method gives a difference in electronegativity it is necessary to choose a reference point in order to gain values for individual elements. Pauling originally chose hydrogen as the reference, with a value of 2.20. The difference in electronegativity between \\ce{Cl} and \\ce{H} is 0.962. Using the reference, what is the elctronegativity of chlorine?",
+        "answer": "3.16",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 182,
+        "question": "What is the oxidation number of the metal in the compound \\ce{[Pt(NH3)2Cl4]}?",
+        "answer": "2.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 183,
+        "question": "Boron nitride has a cubic form(c-BN). The unit cell of c-BN is cubic, with cell parameters of a = \\pu{3.63 Angstrom}. What is the density of c-BN in \\pu{g cm^{-3}}?",
+        "answer": "3.45",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 184,
+        "question": "To make silica gel, solid silicon dioxide must be reacted in 1:2 ratio with sodium carbonate at \\pu{1500 deg C}. This reaction forms salt \\ce{Na4SiO4} and colorless gas \\ce{COx}. What is x?",
+        "answer": "2.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 185,
+        "question": "How many other tetrahedra does each silica tetrahedron in quartz connect to?",
+        "answer": "4.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 186,
+        "question": "What is the oxidation number of the metal in the compound \\ce{[ReH9]^{2-}}?",
+        "answer": "7.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 187,
+        "question": "Boron nitride has a hexagonal layered structure similar to graphite (h-BN). The unit cell of h-BN is a right regular hexagonal prism, with cell parameters of b(side length) = \\pu{1.47 Angstrom} and c(height) = \\pu{6.66 Angstrom}. What is the volume of h-BN unit cell in \\pu{cm^{3}}?",
+        "answer": "-23.0",
+        "unit": "E",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 188,
+        "question": "To calculate electronegativity of an element, Mulliken calculated the value from the first ionization energy (\\ce{E_{i}}) and first electron affinity (\\ce{E_{ea}}) of an atom, $X(A) = 0.00197(E_{i} + E_{ea}) + 0.19$, where \\ce{E_{i} }and \\ce{E_{ea}} are in \\pu{kJ mol^{-1}}. What is the Mulliken electronegativity of nitrogen given that \\ce{E_{i}}(N) = \\pu{14.5 eV} and \\ce{E_{ea}}(N) = \\pu{6.80 kJ mol^{-1}}?",
+        "answer": "2.96",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 189,
+        "question": "Talc (\\ce{Mg3Si4H2O12}) is a mineral which contains hydroxide ions in addition to silicates. The formula of the silicate anion in talc is \\ce{[SixO10]^{4-}}. What is the value of x?",
+        "answer": "4.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 190,
+        "question": "What is the spin-only magnetic moment (in units of Bohr-magnetons) for the low-spin case of the metal complex tetramethylamine diaquacopper(II) ion?",
+        "answer": "1.73",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 191,
+        "question": "What is the oxidation number of the metal in the compound \\ce{[Co(C2O4)2Cl2]^{3-}}?",
+        "answer": "3.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 192,
+        "question": "Boron nitride has a cubic form(c-BN). The unit cell of c-BN is cubic, with cell parameters of a = \\pu{3.63 Angstrom}. What is the volume of the c-BN unit cell in \\pu{cm^{3}}?",
+        "answer": "-23.0",
+        "unit": "E",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 193,
+        "question": "The ligand-field splitting energy (LFSE) is computed as $LFSE=-0.4\\cdot Dq \\cdot n+0.6 \\cdot Dq \\cdot m$ with $n$ being the number of electrons in t2g d orbitals ($\\mathrm{d}_{xz}$, $\\mathrm{d}_{yz}$ and $\\mathrm{d}_{xy}$), $m$ the number of electrons in eg d orbitals ($\\mathrm{d}_{x^2-y^2}$ and $\\mathrm{d_{z^2}}$), and Dq the ligand field splitting parameter. What is the value of LFSE in terms of Dq for the low-spin case in the metal complex tetramethylamine diaquacopper(II) ion?",
+        "answer": "-0.6",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 194,
+        "question": "What is the oxidation number of the metal in the compound \\ce{[ZrF7]^{3-}}?",
+        "answer": "4.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 195,
+        "question": "Calculate the solubility of $\\ce{BaSO_{4}}$ at 298 K in g per 100 g of water given that $K_{\\text{sp}} = 1.07\\times 10^{-10}$.",
+        "answer": "0.00024",
+        "unit": "",
+        "reference": "Inorganic Chemistry _ Edition 4 -- Prof Catherine Housecroft, Alan G_ Sharpe -- 4th ed_, Harlow, England, New York, England, 2012 -- Pearson Education, 7.13 ",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 196,
+        "question": " Following orbitals possess: (a) $2s$; (b) $4s$; (c) $3p$; (d) $5d$; (e) $1s$; (f) $4p$. Please give the sum of radial nodes as a digital number. ",
+        "answer": "9.0",
+        "unit": "",
+        "reference": "Inorganic Chemistry _ Edition 4 -- Prof Catherine Housecroft, Alan G_ Sharpe -- 4th ed_, Harlow, England, New York, England, 2012 -- Pearson Education, 1.13 ",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 197,
+        "question": "Dissolve 26.3 g of (CdSO_4) solid in 1000 g of water. Its freezing point is 0.285 K lower than that of pure water. Given that (k_f) of water is (1.86\\ K¡¤kg¡¤mol^{-1}), calculate the degree of dissociation of (CdSO_4) in the solution and present the answer as a percentage.",
+        "answer": "21.4",
+        "unit": "%",
+        "reference": "",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 198,
+        "question": "When oleic acid glyceride is metabolized in the human body, the following reaction occurs:   $$\\ce{C_{57}H_{104}O_{6}(s) + 80O_{2}(g) = 57CO_{2}(g) + 52H_{2}O(l)}$$   $\\Delta_{r}H_{m}^{\\ominus} = -3.35\\times10^{4}\\ \\text{kJ¡¤mol}^{-1}$. Calculate the reaction progress when 1 kg of this fat is consumed, and how much heat will be released.",
+        "answer": "37900.0",
+        "unit": "KJ",
+        "reference": "",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 199,
+        "question": "Try to calculate the \\(\\Delta_{r}H_{m}^{\\ominus}\\) of the reaction \\(\\ce{CO(g) + 2H_{2}(g)\\xlongequal{´ß»¯¼Á} CH_{3}OH(l)}\\) based on the thermodynamic data of the known reactions:   ¢Ù \\(\\ce{2C(graphite) + O_{2}(g) = 2CO(g)}\\) \\(\\Delta_{r}H_{m}^{\\ominus}(1) = -221.0\\ \\text{kJ¡¤mol}^{-1}\\)   ¢Ú \\(\\ce{C(graphite) + O_{2}(g) = CO_{2}(g)}\\) \\(\\Delta_{r}H_{m}^{\\ominus}(2) = -393.5\\ \\text{kJ¡¤mol}^{-1}\\)   ¢Û \\(\\ce{2CH_{3}OH(l) + 3O_{2}(g) = 2CO_{2}(g) + 4H_{2}O(l)}\\) \\(\\Delta_{r}H_{m}^{\\ominus}(3) = -1452.2\\ \\text{kJ¡¤mol}^{-1}\\)   ¢Ü \\(\\ce{2H_{2}(g) + O_{2}(g) = 2H_{2}O(l)}\\) \\(\\Delta_{r}H_{m}^{\\ominus}(4) = -571.6\\ \\text{kJ¡¤mol}^{-1}\\)",
+        "answer": "-128.5",
+        "unit": "KJ mol-1",
+        "reference": "\"2-6\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 200,
+        "question": "The half - life of a first - order reaction at 400 K is 100 times that at 500 K. Try to estimate the activation energy of this reaction.",
+        "answer": "76.6",
+        "unit": "KJ mol-1",
+        "reference": "",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 201,
+        "question": "At a certain temperature, for the reaction:   $$\\ce{H_{2}(g) + Br_{2}(g)\\rightleftharpoons 2HBr(g)}$$   \\(K_{c}=8.10\\times10^{3}\\). Calculate the equilibrium conversion of \\(\\ce{Br_{2}}\\) in two cases:   1. The initial concentrations of \\(\\ce{H_{2}(g)}\\) and \\(\\ce{Br_{2}(g)}\\) are both \\(1.00\\ \\text{mol¡¤dm}^{-3}\\).   2. The initial concentrations of \\(\\ce{H_{2}(g)}\\) and \\(\\ce{Br_{2}(g)}\\) are \\(10.00\\ \\text{mol¡¤dm}^{-3}\\) and \\(1.00\\ \\text{mol¡¤dm}^{-3}\\) respectively.",
+        "answer": "99.99",
+        "unit": "%",
+        "reference": "\"4-9\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 202,
+        "question": "A certain amount of ammonium chloride decomposes upon heating according to the following equation:   $$\\ce{NH_{4}Cl(s)\\rightleftharpoons NH_{3}(g) + HCl(g)}$$   It is known that for the reaction, \\(\\Delta_{r}H_{m}^{\\ominus}=161\\ \\text{kJ¡¤mol}^{-1}\\) and \\(\\Delta_{r}S_{m}^{\\ominus}=250\\ \\text{J¡¤mol}^{-1}¡¤\\text{K}^{-1}\\). Try to calculate the total pressure (kPa) of the system when equilibrium is reached at 700 K.",
+        "answer": "660.0",
+        "unit": "kPa",
+        "reference": "\"4-15\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 203,
+        "question": "For the reaction:   $$\\ce{2NaHCO_{3}(s)\\rightleftharpoons Na_{2}CO_{3}(s) + CO_{2}(g) + H_{2}O(g)}$$   The standard molar reaction enthalpy is \\(1.29\\times10^{2}\\ \\text{kJ¡¤mol}^{-1}\\). If \\(K^{\\ominus}=1.66\\times10^{-5}\\) at 303 K, try to calculate \\(K^{\\ominus}\\) at 393 K.",
+        "answer": "2.05",
+        "unit": "",
+        "reference": "\"4-20\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 204,
+        "question": "LiBr has a NaCl - type crystal structure and a density of (3.464\\ \\text{g¡¤cm}^{-3}). Calculate the distance (pm) between (\\text{Li}^+) and (\\text{Br}^-).",
+        "answer": "275.0",
+        "unit": "pm",
+        "reference": "\"7-13\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 205,
+        "question": "The solubility of \\(\\ce{Mg(OH)_{2}}\\) in water is \\(1.12\\times10^{-4}\\ \\text{mol¡¤dm}^{-3}\\). Try to calculate its solubility - product constant \\(K_{sp}^{\\ominus}\\). If \\(0.10\\ \\text{dm}^3\\) of \\(0.10\\ \\text{mol¡¤dm}^{-3}\\) \\(\\ce{MgCl_{2}}\\) solution is mixed with \\(0.10\\ \\text{dm}^3\\) of \\(0.10\\ \\text{mol¡¤dm}^{-3}\\) \\(\\ce{NH_{3}¡¤H_{2}O}\\) solution, try to find out how many grams of \\(\\ce{NH_{4}Cl}\\) solid need to be added to inhibit the precipitation of \\(\\ce{Mg(OH)_{2}}\\).   It is known that the \\(K_{b}^{\\ominus}\\) of \\(\\ce{NH_{3}¡¤H_{2}O}\\) is \\(1.8\\times10^{-5}\\).   ",
+        "answer": "0.91",
+        "unit": "g",
+        "reference": "\"9-7\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 206,
+        "question": "It is known that for the electrode reaction \\(\\ce{Cu^{+} + e^{-}=Cu}\\), \\(E^{\\ominus} = 0.52\\ \\text{V}\\), and the solubility - product constant \\(K_{sp}\\) of \\(\\ce{CuCl}\\) is \\(1.7\\times10^{-7}\\). Try to calculate the standard electrode potential \\(E^{\\ominus}\\) for the electrode reaction \\(\\ce{CuCl + e^{-}=Cu + Cl^{-}}\\).",
+        "answer": "0.12",
+        "unit": "v",
+        "reference": "\"10-10\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 207,
+        "question": "It is known that at 298 K, the standard molar Gibbs free energy of formation \\(\\Delta_{f}G_{m}^{\\ominus}\\) of \\(\\ce{Ca(OH)_{2}(s)}\\) is \\(- 897.5\\ \\text{kJ¡¤mol}^{-1}\\), and that of \\(\\ce{H_{2}O(l)}\\) is \\(-237.1\\ \\text{kJ¡¤mol}^{-1}\\). The ion - product constant of water \\(K_{w}^{\\ominus}=1.00\\times10^{-14}\\). Try to calculate the electrode potential of the electrode \\(\\ce{Ca(OH)_{2}/Ca}\\).",
+        "answer": "-3.02",
+        "unit": "v",
+        "reference": "\"10-14\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 208,
+        "question": "It is known that for the acid - dissociation equilibrium constants of \\(H_2S\\) aqueous solution, \\(K_1 = 1.1\\times10^{-7}\\) and \\(K_2 = 1.3\\times10^{-13}\\), and the solubility - product constant \\(K_{sp}^{\\ominus}\\) of \\(CuS\\) is \\(6.3\\times10^{-36}\\).   The electrode reactions and their standard electrode potentials are:   - \\(\\ce{NO^{-}_{3} + 4H^{+} + 3e^{-}=NO + 2H_{2}O}\\) \\(E^{\\ominus}=0.96\\ \\text{V}\\)   - \\(\\ce{S + 2H^{+} + 2e^{-}=H_{2}S}\\) \\(E^{\\ominus}=0.14\\ \\text{V}\\)   Try to calculate the equilibrium constant \\(K^{\\ominus}\\) for the reaction \\(\\ce{3CuS + 2NO^{-}_{3} + 8H^{+}=3Cu^{2 + } + 2NO + 3S + 4H_{2}O}\\).",
+        "answer": "2.0999999999999999e+37",
+        "unit": "",
+        "reference": "\"10-19\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 209,
+        "question": "It is known that:   - For the electrode reaction \\(\\ce{Cu^{2+} + 2e^{-}=Cu}\\), \\(E^{\\ominus}=0.34\\ \\text{V}\\)   - For the electrode reaction \\(\\ce{Cu^{+} + e^{-}=Cu}\\), \\(E^{\\ominus}=0.52\\ \\text{V}\\)   - For the electrode reaction \\(\\ce{Cu^{2+} + Br^{-} + e^{-}=CuBr}\\), \\(E^{\\ominus}=0.65\\ \\text{V}\\)   Try to calculate the solubility - product constant \\(K_{sp}^{\\ominus}\\) of \\(\\ce{CuBr}\\).",
+        "answer": "4.9e-09",
+        "unit": "",
+        "reference": "\"10-23\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 210,
+        "question": "In a solution, the initial concentrations of \\(\\ce{Cu^{2+}}\\) and \\(\\ce{NH_{3}¡¤H_{2}O}\\) are \\(0.20\\ \\text{mol¡¤dm}^{-3}\\) and \\(1.0\\ \\text{mol¡¤dm}^{-3}\\) respectively. It is known that the stability constant \\(K_{stable}^{\\ominus}\\) of \\(\\ce{[Cu(NH_{3})_{4}]^{2+}}\\) is \\(2.1\\times10^{13}\\). Try to calculate the residual concentration of \\(\\ce{Cu^{2+}}\\) in the solution at equilibrium.",
+        "answer": "6e-12",
+        "unit": "mol dm-3",
+        "reference": "\"11-24\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 211,
+        "question": "It is known that:   ¢Ù \\(\\ce{2MnO^{-}_{4} + 10Cl^{-} + 16H^{+}=2Mn^{2+} + 5Cl_{2} + 8H_{2}O}\\) \\(\\Delta_{r}G_{m}^{\\ominus}(1) = -142.0\\ \\text{kJ¡¤mol}^{-1}\\)   ¢Ú \\(\\ce{Cl_{2} + 2Fe^{2+}=2Cl^{-} + 2Fe^{3+}}\\) \\(\\Delta_{r}G_{m}^{\\ominus}(2) = -113.6\\ \\text{kJ¡¤mol}^{-1}\\)   Try to calculate \\(\\Delta_{r}G_{m}^{\\ominus}\\) for the reaction \\(\\ce{MnO^{-}_{4} + 5Fe^{2+} + 8H^{+}=Mn^{2+} + 5Fe^{3+} + 4H_{2}O}\\).",
+        "answer": "-355.0",
+        "unit": "KJ mol-1",
+        "reference": "\"2-8\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 212,
+        "question": "It is known that the standard molar entropies \\(S_{m}^{\\ominus}\\) of solid iodine \\(\\ce{I_{2}(s)}\\) and iodine vapor \\(\\ce{I_{2}(g)}\\) are \\(116.1\\ \\text{J¡¤mol}^{-1}¡¤\\text{K}^{-1}\\) and \\(260.7\\ \\text{J¡¤mol}^{-1}¡¤\\text{K}^{-1}\\) respectively, and the standard molar enthalpy of formation \\(\\Delta_{f}H_{m}^{\\ominus}\\) of iodine vapor is \\(62.4\\ \\text{kJ¡¤mol}^{-1}\\). Try to calculate the normal sublimation temperature of solid iodine.",
+        "answer": "432.0",
+        "unit": "K",
+        "reference": "\"2-20\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 213,
+        "question": "The concentration of the solution of the sodium salt (NaX) of a monoprotic weak acid is \\(0.2\\ \\text{mol¡¤dm}^{-3}\\). Given that its pH is 9, try to calculate the dissociation equilibrium constant \\(K_{a}^{\\ominus}\\) of this weak acid HX.",
+        "answer": "2e-05",
+        "unit": "",
+        "reference": "\"8-13\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 214,
+        "question": "A strong base is used to titrate a monoprotic weak acid. When \\(3.50\\ \\text{cm}^3\\) of the strong base solution is added, the pH of the system is 4.15. When \\(5.70\\ \\text{cm}^3\\) of the strong base solution is added, the pH of the system is 4.44. Try to calculate the dissociation equilibrium constant of this weak acid.",
+        "answer": "1.86e-05",
+        "unit": "",
+        "reference": "\"8-18\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 215,
+        "question": "At \\(1.013¡Á10^{5}\\ \\text{Pa}\\) and \\(373\\ \\text{K}\\), \\(18\\ \\text{g}\\) of \\(\\ce{H_{2}O(l)}\\) vaporizes into \\(\\ce{H_{2}O(g)}\\), absorbing \\(40.58\\ \\text{kJ}\\) of heat. Try to calculate \\(\\Delta U\\) for this process.",
+        "answer": "37.48",
+        "unit": "kJ",
+        "reference": "\"2-21\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 216,
+        "question": "At \\(1.013¡Á10^{5}\\ \\text{Pa}\\) and \\(373\\ \\text{K}\\), \\(18\\ \\text{g}\\) of \\(\\ce{H_{2}O(l)}\\) vaporizes into \\(\\ce{H_{2}O(g)}\\), absorbing \\(40.58\\ \\text{kJ}\\) of heat. Try to calculate \\(\\Delta S\\) for this process.",
+        "answer": "108.8",
+        "unit": "J K-1",
+        "reference": "\"2-21\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 217,
+        "question": "(\\ce{SO_{2}Cl_{2}(g) = SO_{2}(g) + Cl_{2}(g)}\\) is a first - order reaction. The rate constant \\(k\\) at a certain temperature is \\(3.8¡Á10^{-5}\\ \\text{s}^{-1}\\). After heating at this temperature for \\(1.5\\ \\text{h}\\), what is the degree of dissociation of \\(\\ce{SO_{2}Cl_{2}}\\)?",
+        "answer": "19.0",
+        "unit": "%",
+        "reference": "\"3-11\"",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 218,
+        "question": "Silver ion reacts with ammonia to form a complex ion: Ag+ (aq) + 2 NH3(aq) = Ag(NH3)2 + (aq) In a certain solution at equilibrium at 298 K, [Ag+ ] = [NH3] = [Ag(NH3)2 + ] = C. What is ?Grxn at 298 K if [Ag+ ] = [NH3] = [Ag(NH3)2 + ] = 0.1C?",
+        "answer": "11.4",
+        "unit": "kJ mol-1",
+        "reference": "2023USACO",
+        "source": "QCBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 219,
+        "question": "What is the maximum concentration of lead(II) ions at equilibrium in a solution with pH = 10.50? The Ksp of Pb(OH)2 is 1.4 ¡ä 10-15.",
+        "answer": "1.4e-08",
+        "unit": " M",
+        "reference": "2023USACO",
+        "source": "QCBench",
+        "class": "General"
+    },
+    {
+        "index": 220,
+        "question": "The pKa of methylammonium ion, CH3NH3 + , is 10.64. What is the percent ionization of a 0.20 M solution of methylamine, CH3NH2?",
+        "answer": "4.7",
+        "unit": "%",
+        "reference": "2023USACO",
+        "source": "QCBench",
+        "class": "General"
+    },
+    {
+        "index": 221,
+        "question": "In a test of the selectivity of an electrocatalyst for the reduction of carbon dioxide to methanol, electrolysis is carried out with a constant current of 0.370 A for 155 minutes. Afterwards, the cathodic compartment of the cell is analyzed and is found to contain 5.30 ¡ä 10-3 mol CH3OH. What is the faradaic yield (the percent yield based on the current passed through the cell)?",
+        "answer": "89.2",
+        "unit": "%",
+        "reference": "2023USACO",
+        "source": "QCBench",
+        "class": "Organic"
+    },
+    {
+        "index": 222,
+        "question": "Cesium chloride (M = 168.4) crystallizes in a primitive cubic unit cell with each cesium ion surrounded by eight chloride ions arranged in a cube. The density of solid CsCl is 3.988 g cm-3. What is the Cs¨CCl distance?",
+        "answer": "357.1",
+        "unit": " pm",
+        "reference": "2024USACO",
+        "source": "QCBench",
+        "class": "General"
+    },
+    {
+        "index": 223,
+        "question": "Equal volumes of 0.1 M solutions of NaH2PO4 and Na3PO4 are mixed. What is the pH of the resulting solution? For H3PO4, pKa1 = 2.12, pKa2 = 7.21, pKa3 = 12.32.",
+        "answer": "9.76",
+        "unit": "",
+        "reference": "2024USACO",
+        "source": "QCBench",
+        "class": "General"
+    },
+    {
+        "index": 224,
+        "question": "0.01 mol of AgNO3 is dissolved in 1.00 L of 1.00 M aqueous NH3. What is the minimum amount of HCl that would need to be added to this solution to induce precipitation of AgCl? The Ksp of AgCl is 1.8 ¡ä 10-10; the Kf of Ag(NH3)2 + is 1.6 ¡ä 107 ; and the Ka of NH4 + is 5.6 ¡ä 10-10.",
+        "answer": "0.18",
+        "unit": "mol",
+        "reference": "2024USACO",
+        "source": "QCBench",
+        "class": "General"
+    },
+    {
+        "index": 225,
+        "question": "If the half-life time, \\( t_{1/2} \\), of the initiator AIBN in an unknown solvent is 22.6 h at \\( 60^\\circ \\text{C} \\), calculate its dissociation rate constant, \\( k_{\\text{d}} \\), in units of reciprocal seconds.",
+        "answer": "8.52e-06",
+        "unit": "s-1",
+        "reference": "2.1",
+        "source": "QCBench",
+        "class": "Polymer"
+    },
+    {
+        "index": 226,
+        "question": "A tensile strip of polystyrene that is 10 cm in length, 5 cm in width, and 2 cm in thickness is stretched to a length of 10.5 cm. Assuming that the sample is isotropic and deforms uniformly, calculate the resulting width after deformation.",
+        "answer": "4.92",
+        "unit": "cm",
+        "reference": "4.2",
+        "source": "QCBench",
+        "class": "Polymer"
+    },
+    {
+        "index": 227,
+        "question": "A tensile strip of polystyrene that is 10 cm in length, 5 cm in width, and 2 cm in thickness is stretched to a length of 10.5 cm. Assuming that the sample is isotropic and deforms uniformly, calculate the % volume change after deformation.",
+        "answer": "1.77",
+        "unit": "%",
+        "reference": "4.2",
+        "source": "QCBench",
+        "class": "Polymer"
+    },
+    {
+        "index": 228,
+        "question": "If the maximum in the $\\alpha$-loss modulus of polystyrene at 1 Hz occurs at 373 K, at what temperature would the maximum occur at 110 Hz if the activation energy for this relaxation is 840 kJ mol???",
+        "answer": "380.0",
+        "unit": "K",
+        "reference": "5.8",
+        "source": "QCBench",
+        "class": "Polymer"
+    },
+    {
+        "index": 229,
+        "question": "The length of an ideal rubber band is increased 100% to 12.0 cm at \\(23^\\circ\\text{C}\\). Stress on this rubber band increases by 0.2 MPa when it is heated to \\(30^\\circ\\text{C}\\) at 100% elongation. What is its tensile modulus in MPa at \\(23^\\circ\\text{C}\\) when it is stretched 2%?",
+        "answer": "14.2",
+        "unit": "Mpa",
+        "reference": "5.12",
+        "source": "QCBench",
+        "class": "Polymer"
+    },
+    {
+        "index": 230,
+        "question": "Calculate the shear modulus (GPa) of a polymer sample in a torsion pendulum with a period of 1.0 sec. The specimen is 10 cm long, 2 cm wide, and 7.5 mm thick and the moment of inertia is 5000 g¡¤cm?.",
+        "answer": "0.919",
+        "unit": "Mpa",
+        "reference": "5.13",
+        "source": "QCBench",
+        "class": "Polymer"
+    },
+    {
+        "index": 231,
+        "question": "Molten polystyrene flows through a circular tube at \\(210^\\circ\\text{C}\\) under a pressure drop of 1,000 psi. Given that the inside diameter of the tube is 0.25 in. and that the tube is 3 in. in length, calculate the following: the (nominal) shear stress at the wall in units of \\(\\text{N m}^{-2}\\)",
+        "answer": "143000.0",
+        "unit": "Nm-2",
+        "reference": "11.4",
+        "source": "QCBench",
+        "class": "Polymer"
+    },
+    {
+        "index": 232,
+        "question": "An asymmetric hollow fiber of polysulfone has a surface pore area, \\( A_3/A_2 \\), of \\( 1.9 \\times 10^{-6} \\) and an effective skin thickness of 1000 ?. If the fiber is coated with a \\( 1-\\mu\\text{m} \\) layer of silicone rubber, calculate the effective \\( P/\\ell \\) for the coated membrane for \\( \\text{CO}_2 \\) and the permselectivity for \\( \\text{CO}_2/\\text{CH}_4 \\).",
+        "answer": "23.0",
+        "unit": "",
+        "reference": "12.1",
+        "source": "QCBench",
+        "class": "Polymer"
+    },
+    {
+        "index": 233,
+        "question": "Styrene is polymerized by free-radical mechanism in solution. The initial monomer and initiator concentrations are 1 \\( M \\) (molar) and 0.001 \\( M \\), respectively. At the polymerization temperature of \\( 60^\\circ\\text{C} \\), the initiator efficiency is 0.30. The rate constants at the polymerization temperature are as follows:   \\[ \\begin{align*} k_{\\text{d}} &= 1.2 \\times 10^{-5} \\ \\text{s}^{-1} \\\\ k_{\\text{p}} &= 176 \\ M^{-1} \\text{s}^{-1} \\\\ k_{\\text{t}} &= 7.2 \\times 10^7 \\ M^{-1} \\text{s}^{-1} \\\\ \\end{align*} \\]   Given this information, determine the following:   Rate of initiation at 1 min and at 16.6 h",
+        "answer": "3.51e-09",
+        "unit": "Ms-1",
+        "reference": "2.2",
+        "source": "QCBench",
+        "class": "Polymer"
+    },
+    {
+        "index": 234,
+        "question": "Assume that a polyesterification is conducted in the absence of solvent or catalyst and that the monomers are present in stoichiometric ratios. Calculate the time (min) required to obtain a number-average degree of polymerization of 50 given that the initial dicarboxylic acid concentration is \\( 3 \\ \\text{mol L}^{-1} \\) and that the polymerization rate constant is \\( 10^{-2} \\ \\text{L mol}^{-1} \\text{s}^{-1} \\).",
+        "answer": "1633.0",
+        "unit": "s",
+        "reference": "2.6",
+        "source": "QCBench",
+        "class": "Polymer"
+    },
+    {
+        "index": 235,
+        "question": "Give your best estimate for the weight fraction of plasticizer required to lower the \\( T_{\\text{g}} \\) of poly(vinyl chloride) (PVC) to \\( 30^\\circ\\text{C} \\). Assume that the \\( T_{\\text{g}} \\) of PVC is 356 K and that of the plasticizer is 188 K. No other information is available.",
+        "answer": "15.1",
+        "unit": "wt%",
+        "reference": "4.5",
+        "source": "QCBench",
+        "class": "Polymer"
+    },
+    {
+        "index": 236,
+        "question": "The 1% secant modulus of a polystyrene sample is 3 GPa. What is the nominal stress (MPa) of this sample at a nominal strain of 0.01?",
+        "answer": "30.0",
+        "unit": "MPa",
+        "reference": "4.1",
+        "source": "QCBench",
+        "class": "Polymer"
+    },
+    {
+        "index": 237,
+        "question": "Assume all processes take place at \\pu{298 K}. The enthalpy change of formation of \\ce{CH4(g)} is \\pu{-74.8 kJ mol^{-1}} and of \\ce{H2O(l)} is \\pu{-285.8 kJ mol^{-1}}. What is the standard enthalpy change of combustion of \\ce{H2} in \\pu{kJ mol^{-1}}?",
+        "answer": "-285.8",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 238,
+        "question": "In the reaction \\ce{CO + H2O <=> CO2 + H2}, an initial mixture of \\pu{40 mol} of \\ce{CO}, \\pu{20 mol} of \\ce{H2}, and \\pu{20 mol} of \\ce{CO2} in contact with \\pu{40 mol} of steam was allowed to come to equilibrium in a reactor at \\pu{1100 K}. At \\pu{1100 K} this reaction has a $K_p$ of 0.64. What is the number of moles of \\ce{H2} leaving the reactor after equilibration?",
+        "answer": "26.7",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 239,
+        "question": "The density of pure water is \\pu{1 g cm^{-3}}. What is its concentration in \\pu{mol dm^{-3}}?",
+        "answer": "55.5",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 240,
+        "question": "Lactic acid has an acid dissociation constant, $K_a$, of \\pu{1.38E-4}. What is the pKa of lactic acid?",
+        "answer": "3.86",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 241,
+        "question": "An adult poisoned by a nerve agent requires an hourly dose of \\pu{3 mmol} of Pralidoxime (PAM) for every kilogram of body mass. The molar mass of PAM is \\pu{172.612 g mol^{-1}}. What is the mass, in grams, of PAM required for an \\pu{80 kg} person over a treatment period of \\pu{24 h}?",
+        "answer": "994.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 242,
+        "question": "Avogadro's constant is \\pu{6.02E23 mol^{-1}}. Gold has only one isotope, which has a relative mass of 197. The density of gold is \\pu{19.3 g cm-3}. What is the mass (in \\pu{g}) of one gold atom?",
+        "answer": "-22.0",
+        "unit": "E",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 243,
+        "question": "The energy released when \\pu{1 L} of the E10 fuel is burnt is \\pu{30680 kJ} and the energy released when \\pu{1 L} of the E5 fuel is burnt is \\pu{31170 kJ}. Taking the energy released from burning \\pu{1 L} of E5 as \\pu{100 %}, what is the percentage of the energy released from burning \\pu{1 L} of E10 fuel?",
+        "answer": "98.4",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 244,
+        "question": "What is the oxidation number of hydrogen in the reactants of Sabatier reaction?",
+        "answer": "0.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 245,
+        "question": "The mass of one gold atom is \\pu{3.27E-22 g} and the density of gold is \\pu{19.3 g cm^{-3}}. What is the molar volume of gold in \\pu{cm^{3} mol^{-1}}?",
+        "answer": "10.2",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 246,
+        "question": "The standard enthalpy change of the reaction \\ce{NaOH + HCl -> NaCl + H2O} is \\pu{-56.7 kJ mol^{-1}}, the standard enthalpy change of the reaction \\ce{SiO2 + 6HF -> H2SiF6 + 2H2O} is \\pu{-100.3 kJ mol^{-1}} and the standard enthalpy change of the reaction \\ce{NaOH + HF -> H2O + NaF} is \\pu{-61.5 kJ mol^{-1}}. What is the standard enthalpy change of the reaction \\ce{SiO2 + 6NaF + 6HCl -> H2SiF6 + 6NaCl + 2H2O} in \\pu{kJ mol^{-1}}?",
+        "answer": "-71.5",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 247,
+        "question": "At \\pu{25 deg C}, the partial pressure of \\ce{CO2} gas in a \\pu{250 cm^{3}} fizzy drink can is \\pu{3 atm}. The Henry's law constant for \\ce{CO2} is \\pu{0.033 mol dm^{-3} atm^{-1}}. The can contains only \\pu{1.09 g} of \\ce{CO2} as a gas. What is the pressure in the can at \\pu{25 deg C} in \\pu{kPa}?",
+        "answer": "245.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 248,
+        "question": "The molar volume of gold is \\pu{10.2 cm^{3} mol^{-1}}. The gold atoms occupy 74 % of the volume of the cubic unit cell. What is the radius of the gold atom in \\pu{\\A}?",
+        "answer": "1.44",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 249,
+        "question": "The enthalpy of combustion of ethanol is \\pu{-1276 kJ mol^{-1}} and the enthalpy of combustion of an isomer of octane is \\pu{-5144 kJ mol^{-1}}. Assume that \\pu{1 L} of E10 fuel contains \\pu{100 mL} of ethanol and \\pu{900 mL} of octane isomers. The density of pure ethanol is \\pu{0.789 g cm^{-3}} and the density of pure octane isomers is \\pu{0.703 g cm^{-3}}. What is the energy, in \\pu{kJ}, released when \\pu{1 L} of the E10 fuel is burnt?",
+        "answer": "30680.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 250,
+        "question": "A plastic was degraded, resulting in a sample of mass \\pu{1.044 g}, and titrations were used to determine the composition of this sample. The sample was dissolved in \\pu{100 cm^{3}} of water to make a stock solution. \\pu{19.40 cm^{3}} of \\pu{0.100 mol dm^{-3}} NaOH solution was needed to neutralize \\pu{20.00 cm^{3}} of this stock solution. What is the amount of acid in the sample (in moles)?",
+        "answer": "0.0097",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 251,
+        "question": "\\pu{286000 tonnes} of polylactic acid (PLA) are manufactured each year. What is the mass of NaOH, in tonnes, needed to completely degrade all the PLA manufactured in one year to sodium lactate, assume the PLA is pure and ignoring the contribution from any end groups?",
+        "answer": "159000.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 252,
+        "question": "There are \\pu{7.1E6} virus particles per \\pu{cm^{3}} in the test solution. Each virus particle has approximately 20 spike proteins on its surface. What is the concentration of spike proteins, [SP], in the test sample in \\pu{mol dm^{-3}}?",
+        "answer": "-13.0",
+        "unit": "E",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 253,
+        "question": "In the reaction \\ce{CO + H2O <=> CO2 + H2}, an initial mixture of \\pu{40 mol} of \\ce{CO}, \\pu{20 mol} of \\ce{H2}, and \\pu{20 mol} of \\ce{CO2} in contact with \\pu{40 mol} of steam was allowed to come to equilibrium in a reactor at \\pu{1100 K}. At \\pu{1100 K} this reaction has a $K_p$ of 0.64. What is the number of moles of \\ce{H2O} leaving the reactor after equilibration?",
+        "answer": "33.3",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 254,
+        "question": "The enthalpy change of vaporization of methane is \\pu{8.2 kJ mol^{-1}} and the enthalpy change of vaporization of oxygen is \\pu{6.8 kJ mol^{-1}}. The enthalpy change of combustion of methane, \\ce{CH4(g) + 2O2(g) -> CO2(g) + 2H2O(g)}, is \\pu{-890.8 kJ mol^{-1}}. What is the enthalpy change of reaction, in \\pu{kJ}, when one mole of liquid methane reacts with liquid oxygen to form gaseous carbon dioxide and gaseous water?",
+        "answer": "-869.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 255,
+        "question": "A small snack bag typically weighs \\pu{22 g}. The entire content of this bag was crushed and dissolved in distilled water, resulting in a solution. This solution was then adjusted to a volume of \\pu{250 cm^{3}} in a volumetric flask. A \\pu{25.0 cm^{3}} portion of this solution underwent titration with \\pu{0.1 mol dm^{-3}} aqueous silver nitrate(V), applying potassium chromate(VI) as the indicator. To reach the red-brown endpoint, \\pu{8.20 cm^{3}} of the aqueous silver nitrate(V) solution was required. What is the mass of sodium chloride in a small snack bag in grams?",
+        "answer": "0.479",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 256,
+        "question": "A catalyst for the hydrogenation of levulinic acid is the octahedral complex of formula \\ce{[RuH2(CO)(PPh3)3]}. This complex is named dihydridocarbonyltris(triphenylphosphine)ruthenium(Z), where Z is the oxidation state of ruthenium. What is the integer Z?",
+        "answer": "2.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 257,
+        "question": "What is the bond enthalpy of the \\ce{O=O} bond in \\pu{kJ mol^{-1}}, given that the bond enthalpy of the \\ce{H-H} bond is \\pu{432 kJ mol^{-1}}, the average bond enthalpy of \\ce{O-H} is \\pu{460 kJ mol^{-1}}, and the enthalpy change for the reaction \\ce{H2 + 0.5 O2 -> H2O} is \\pu{-241 kJ} per mole of hydrogen gas?",
+        "answer": "494.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 258,
+        "question": "What is the oxidation number of carbon in the reactants of Sabatier reaction?",
+        "answer": "4.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 259,
+        "question": "The standard enthalpy change of formation at \\pu{298 K} is \\pu{-393.5 kJ mol^{-1}} for \\ce{CO2}, \\pu{-424.8 kJ mol^{-1}} for \\ce{KOH}, \\pu{-285.8 kJ mol^{-1}} for \\ce{H2O} and \\pu{-1151.2 kJ mol^{-1}} for \\ce{K2CO3}. What is the standard enthalpy change for the reaction \\ce{CO2 + 2KOH -> H2O + K2CO3} in \\pu{kJ mol^{-1}}?",
+        "answer": "-193.9",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 260,
+        "question": "The density of liquid hydrogen is \\pu{0.071 g cm^{-3}}. Assume the enthalpy change for the reaction \\ce{H2 + 0.5 O2 -> H2O} is \\pu{-241 kJ} per mole of hydrogen gas. What is the energy released, in \\pu{kJ}, when the gas formed from \\pu{1 dm^{3}} of liquid hydrogen is combusted?",
+        "answer": "8480.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 261,
+        "question": "What is the oxidation state of phosphorus in phosphine?",
+        "answer": "-3.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 262,
+        "question": "If ten tonnes of Ambrox (\\ce{C16H28O}) are produced every year, what is the number of moles produced per year?",
+        "answer": "42000.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 263,
+        "question": "Assume all processes take place at \\pu{298 K}. The enthalpy change of formation of \\ce{CH4(g)} is \\pu{-74.8 kJ mol^{-1}}, of \\ce{CO2(g)} is \\pu{-393.5 kJ mol^{-1}} and it is \\pu{-285.8 kJ mol^{-1}} for \\ce{H2O(l)}. What is the enthalpy change for the reaction \\ce{CH4(g) + 2H2O(l) -> CO2(g) + 4H2(g)} in \\pu{kJ mol^{-1}}?",
+        "answer": "253.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 264,
+        "question": "The concentration of \\ce{CO2} in a \\pu{250 cm^{3}} can of fizzy drink was found to be \\pu{0.099 mol dm^{-3}}. What is, in grams, the mass of \\ce{CO2} dissolved in a \\pu{250 cm^{3}} can of fizzy drink?",
+        "answer": "1.09",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 265,
+        "question": "The average bond enthalpy of \\ce{C-C} is \\pu{347 kJ mol^{-1}}, \\ce{C-H} is \\pu{413 kJ mol^{-1}}, \\ce{O=O} is \\pu{498 kJ mol^{-1}}, \\ce{C-O} is \\pu{358 kJ mol^{-1}}, \\ce{C=O} is \\pu{805 kJ mol^{-1}} and \\ce{O-H} is \\pu{464 kJ mol^{-1}}. What is the enthalpy of combustion of an isomer of octane in \\pu{kJ mol^{-1}}?",
+        "answer": "-5144.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 266,
+        "question": "In the reaction \\ce{CO + H2O <=> CO2 + H2}, an initial mixture of \\pu{40 mol} of \\ce{CO}, \\pu{20 mol} of \\ce{H2}, and \\pu{20 mol} of \\ce{CO2} in contact with \\pu{40 mol} of steam was allowed to come to equilibrium in a reactor at \\pu{1100 K}. At \\pu{1100 K} this reaction has a $K_p$ of 0.64. What is the number of moles of \\ce{CO} leaving the reactor after equilibration?",
+        "answer": "33.3",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 267,
+        "question": "An impure sample of calcium carbide of mass \\pu{0.752 g} was added to \\pu{50 cm^{3}} of water. After all the calcium carbide had reacted, \\pu{20 cm^{3}} of the reaction mixture was removed and titrated against \\pu{0.250 mol dm^{-3}} hydrochloric acid. \\pu{34.60 cm^{3}} of hydrochloric acid was required to neutralize the sample. It can be assumed that none of the impurities reacted. What is the percentage purity of the calcium carbide?",
+        "answer": "92.2",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 268,
+        "question": "EDTA reacts with copper ions according to the equation \\ce{Cu^{2+} + EDTA4_{(aq)} -> [CuEDTA]^{2-}_{(aq)}}. The end-point of the titration was determined using an indicator called murexide, and it was found that \\pu{0.1 g} of X required \\pu{21.70 cm^{3}} of \\pu{0.02 mol dm^{-3}} EDTA solution for complete reaction. What is the percent by mass of copper in compound X?",
+        "answer": "27.58",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 269,
+        "question": "The enthalpy change of formation of \\ce{H2O(l)} is \\pu{-285.8 kJ mol^{-1}}. What is the enthalpy change for the overall cell reaction during electrolysis of water, \\ce{2H2O(l) -> 2H2(g) + O2(g)} in \\pu{kJ mol^{-1}}?",
+        "answer": "571.6",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 270,
+        "question": "The dissolved \\ce{CO2} in fizzy drinks is in equilibrium with a small quantity of gaseous \\ce{CO2} at the top of the sealed container. The Henry's law constant for \\ce{CO2} is \\pu{0.033 mol dm^{-3} atm^{-1}}. The partial pressure of \\ce{CO2} gas in a \\pu{250 cm^{3}} can of fizzy drink is \\pu{3 atm} at \\pu{25 deg C}. What is the the concentration of \\ce{CO2} in the fizzy drink in \\pu{mol dm^{-3}}?",
+        "answer": "0.099",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 271,
+        "question": "The enthalpy of combustion of ethanol is \\pu{-1276 kJ mol^{-1}} and the enthalpy of combustion of an isomer of octane is \\pu{-5144 kJ mol^{-1}}. Assume that \\pu{1 L} of E5 fuel contains \\pu{50 mL} of ethanol and \\pu{950 mL} of octane isomers. The density of pure ethanol is \\pu{0.789 g cm^{-3}} and the density of pure octane isomers is \\pu{0.703 g cm^{-3}}. What is the energy, in \\pu{kJ}, released when \\pu{1 L} of the E5 fuel is burnt?",
+        "answer": "31170.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 272,
+        "question": "A standard small bag typically contains \\pu{22 g} of a snack. When a \\pu{2.0 g} sample of the snack is completely burned, it results in a temperature rise of \\pu{20.9 deg C} in \\pu{500 g} of water within the calorimeter. The specific heat capacity of water is \\pu{4.18 J K^{-1} g^{-1}}, and the conversion factor from kilojoules (kJ) to dietary calories is 0.239. What is the dietary calories content in a standard small bag of the snack?",
+        "answer": "115.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 273,
+        "question": "The density of liquid hydrogen is \\pu{0.071 g cm^{-3}}. What is the number of moles of hydrogen molecules in \\pu{1 dm^{3}} of liquid hydrogen?",
+        "answer": "35.2",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 274,
+        "question": "What is the average molar mass of polymer chains in a polylactic acid (PLA) sample, measured in grams per mole, based on the dissolution of \\pu{0.1619 g} of PLA in \\pu{25 cm^{3}} of benzyl alcohol and titration with a \\pu{0.04 mol dm^{-3}} \\ce{KOH} solution, yielding a titre of \\pu{6.81 cm^{3}}?",
+        "answer": "595.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 275,
+        "question": "The reaction for the explosion of TNT is \\ce{C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + 1.5N2 + H2O}. What the mass (in \\pu{g}) of TNT that will explode to produce \\pu{1.0 dm^{3}} of gas at room temperature and pressure, assuming that the molar volume of any gas is \\pu{24 dm^{3}} at RTP?",
+        "answer": "1.35",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 276,
+        "question": "What is the oxidation state of phosphorus in phosphoric acid?",
+        "answer": "5.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 277,
+        "question": "What is the oxidation number of carbon in the products of Sabatier reaction?",
+        "answer": "-4.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 278,
+        "question": "Assuming a bubble appearing during fermentation in cheese with diameter \\pu{1.5 cm} at \\pu{21 deg C} is pure \\ce{CO2} at atmospheric pressure, p = \\pu{101325 Pa}, what is the mass, in grams, of lactic acid which was fermented by the bacteria to produce this bubble?",
+        "answer": "0.0198",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 279,
+        "question": "What is the oxidation number of hydrogen in the products of Sabatier reaction?",
+        "answer": "1.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 280,
+        "question": "The density of pure water is \\pu{1 g cm^{-3}}, the melting point of pure water is \\pu{273 K} and the standard enthalpy change of melting for pure water is \\pu{6.01 kJ mol^{-1}}. The depression in freezing point can be calculated by $\frac{nRT_\\mathrm{melt}^2}{\\Delta H_\\mathrm{melt}}$, where $n$ is the amount of substance (in \\pu{mol}) of ions, $R$ is the gas constant, $T_\\mathrm{melt}$ is the melting point of pure water, and $\\Delta H_\\mathrm{melt}$ is the standard enthalpy change of melting for pure water. What is the freezing point of a \\pu{3 mol dm^{-3}} solution of sodium chloride in \\pu{K}?",
+        "answer": "262.9",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 281,
+        "question": "In the reaction \\ce{CO + H2O <=> CO2 + H2}, an initial mixture of \\pu{40 mol} of \\ce{CO}, \\pu{20 mol} of \\ce{H2}, and \\pu{20 mol} of \\ce{CO2} in contact with \\pu{40 mol} of steam was allowed to come to equilibrium in a reactor at \\pu{1100 K}. At \\pu{1100 K} this reaction has a $K_p$ of 0.64. What is the number of moles of \\ce{CO2} leaving the reactor after equilibration?",
+        "answer": "26.7",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 282,
+        "question": "When fuel gases are supplied under the same pressure, the heat released per second in a burner is directly proportional to standard enthalpy change of combustion and inversely proportional to the square root of relative molecular mass. Assume hydrogen and methane are supplied under the same pressure. The heat released with \\ce{H2} is \\pu{-285.8 kJ mol^{-1}} and the heat released with \\ce{CH4} is \\pu{-890.3 kJ mol^{-1}}. What is the ratio of heat released per second in a burner fuelled by hydrogen compared to in the same burner fuelled by methane?",
+        "answer": "0.908",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "Physical"
+    },
+    {
+        "index": 283,
+        "question": "This question is about benzene and its isomers\n\nWorking out the structure of benzene, $\\mathrm{C}_{6} \\mathrm{H}_{6}$, was one of the great achievements of $19^{\\text {th }}$ century chemists. The carcinogenic hydrocarbon was first discovered by Michael Faraday at the Royal Institution in 1825 during the repeated fractional distillation of some oil residues.\n\nFaraday analysed the pure benzene by passing its vapour over heated copper(II) oxide to produce carbon dioxide, water and copper. He collected and measured the volume of liquid water and gaseous $\\mathrm{CO}_{2}$ produced from a given mass of benzene.\n\nCalculate the maximum mass of water that could be formed from $0.644 \\mathrm{mmol}$ of benzene using Faraday's method.",
+        "answer": "0.0348",
+        "unit": "g",
+        "reference": "NV",
+        "source": "OlympicArena",
+        "class": "General"
+    },
+    {
+        "index": 284,
+        "question": "For sustainable energy, hydrogen appears to be the best energy carrier. The most efficient way of using hydrogen is generation of electrical energy in a fuel cell. However, storing hydrogen in large quantities is a challenge in fuel cell applications. Among the chemical hydrides considered as solid hydrogen storage materials, sodium borohydride $\\left(\\mathrm{NaBH}_{4}\\right)$, being non-toxic, stable and environmentally benign, appears to be the most promising one. The hydrolysis of sodium borohydride that releases $\\mathrm{H}_{2}$ gas is a slow reaction at ambient temperature and, therefore, needs to be catalyzed.\n\n$$\n\\mathrm{NaBH}_{4}(\\mathrm{aq})+2 \\mathrm{H}_{2} \\mathrm{O}(I)  \\xrightarrow{catalyst} \\mathrm{Na}^{+}(\\mathrm{aq})+\\mathrm{BO}_{2}^{-}(\\mathrm{aq})+4 \\mathrm{H}_{2}(g)\n$$\n\nColloidal ruthenium(0) nanoclusters are the most active catalysts in this hydrolysis even at room temperature and lead to a complete $\\mathrm{H}_{2}$ release from sodium borohydride. Kinetic studies show that the catalytic hydrolysis of $\\mathrm{NaBH}_{4}$ is a first order reaction with respect to the catalyst, but a zero order with respect to the substrate. The rate of hydrogen production per mole of ruthenium is $92 \\mathrm{~mol} \\mathrm{H}_{2} \\cdot(\\mathrm{mol} \\mathrm{Ru})^{-1} \\cdot \\min ^{-1}$ at $25^{\\circ} \\mathrm{C}$.Calculate the amount of ruthenium catalyst (in $\\mathrm{mg}$ ) which must be added to $0.100 \\mathrm{dm}^{3}$ of $\\mathrm{NaBH}_{4}$ solution with a concentration of $1.0 \\mathrm{~mol} \\mathrm{dm}^{-3}$ to supply the hydrogen gas at a rate of $0.100 \\mathrm{dm}^{3} \\cdot \\mathrm{min}^{-1}$ at $25^{\\circ} \\mathrm{C}$ and $1.0 \\mathrm{~atm}$, that is required for a portable fuel cell.",
+        "answer": "4.5",
+        "unit": "mg",
+        "reference": "NV",
+        "source": "OlympicArena",
+        "class": "General"
+    },
+    {
+        "index": 285,
+        "question": "Dissociating gas cycle\n\nDinitrogen tetroxide forms an equilibrium mixture with nitrogen dioxide:\n\n$$\n\\mathrm{N}_{2} \\mathrm{O}_{4}(g) \\rightleftharpoons 2 \\mathrm{NO}_{2}(g)\n$$\n\n1.00 mol of $\\mathrm{N}_{2} \\mathrm{O}_{4}$ was put into an empty vessel with a fixed volume of $24.44 \\mathrm{dm}^{3}$. The equilibrium gas pressure at $298 \\mathrm{~K}$ was found to be 1.190 bar. When heated to $348 \\mathrm{~K}$, the gas pressure increased to its equilibrium value of 1.886 bar.Calculate $\\Delta S^{0}$ of the reaction, assuming that they do not change significantly with temperature.",
+        "answer": "0.176",
+        "unit": "$\\mathrm{~kJ} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$",
+        "reference": "NV",
+        "source": "OlympicArena",
+        "class": "Analytical"
+    },
+    {
+        "index": 286,
+        "question": "${ }^{131}$I is a radioactive isotope of iodine ( $\\mathrm{e}^{-}$emitter) used in nuclear medicine for analytical procedures to determine thyroid endocrine disorders by scintigraphy. The decay rate constant, $k$, of ${ }^{131} \\mathrm{I}$ is $9.93 \\times 10^{-7} \\mathrm{~s}^{-1}$.\n\nKnowing that a Geiger counter detects activities of the order of $10^{-4} \\mu \\mathrm{c}$, calculate the minimum amount of ${ }^{131}$ I (in grams) which could be detected by this counter.\n\n1 Curie (c) is the amount of a radioisotope that produces $3.7 \\times 10^{10}$ disintegrations $s^{1}$.",
+        "answer": "$8.11 \\times 10^{-16}$",
+        "unit": "g",
+        "reference": "NV",
+        "source": "OlympicArena",
+        "class": "Analytical"
+    },
+    {
+        "index": 287,
+        "question": "Extraction of gold using sodium cyanide, a very poisonous chemical, causes environmental problems and gives rise to serious public concern about the use of this so called \"cyanide process\". Thiosulfate leaching of gold has been considered as an alternative. In this process, the main reagent is ammonium thiosulfate, $\\left(\\mathrm{NH}_{4}\\right)_{2} \\mathrm{~S}_{2} \\mathrm{O}_{3}$, which is relatively non-toxic. Although this process appears to be environmentally benign, the chemistry involved is very complex and needs to be studied thoroughly. The solution used for leaching gold contains $\\mathrm{S}_{2} \\mathrm{O}_{3}^{2-}, \\mathrm{Cu}^{2+}, \\mathrm{NH}_{3}$, and dissolved $\\mathrm{O}_{2}$. The solution must have a $\\mathrm{pH}$ greater than 8.5 to allow free ammonia to be present.\n\nAccording to the proposed mechanism, a local voltaic micro-cell is formed on the surface of gold particles during the leaching process and operates as follows:\n\nAnode:\n\n$\\mathrm{Au}(\\mathrm{s})+2 \\mathrm{NH}_{3}(\\mathrm{aq}) \\rightarrow\\left[\\mathrm{Au}\\left(\\mathrm{NH}_{3}\\right)_{2}\\right]^{+}(\\mathrm{aq})+e^{-}$\n\n$\\left[\\mathrm{Au}\\left(\\mathrm{NH}_{3}\\right)_{2}\\right]^{+}(a q)+2 \\mathrm{~S}_{2} \\mathrm{O}_{3}^{2-}(a q) \\rightarrow\\left[\\mathrm{Au}\\left(\\mathrm{S}_{2} \\mathrm{O}_{3}\\right)_{2}\\right]^{3-}(a q)+2 \\mathrm{NH}_{3}(a q)$\n\nCathode:\n\n$\\left[\\mathrm{Cu}\\left(\\mathrm{NH}_{3}\\right)_{4}\\right]^{2+}(a q)+e^{-} \\rightarrow\\left[\\mathrm{Cu}\\left(\\mathrm{NH}_{3}\\right)_{2}\\right]^{+}(a q)+2 \\mathrm{NH}_{3}(a q)$\n\n$\\left[\\mathrm{Cu}\\left(\\mathrm{NH}_{3}\\right)_{2}\\right]^{+}(a q)+3 \\mathrm{~S}_{2} \\mathrm{O}_{3}^{2-}(a q) \\rightarrow\\left[\\mathrm{Cu}\\left(\\mathrm{S}_{2} \\mathrm{O}_{3}\\right)_{3}\\right]^{5-}(a q)+2 \\mathrm{NH}_{3}(a q)$\n\nThe formation constants, $K_{f}$, of $\\left[\\mathrm{Au}\\left(\\mathrm{NH}_{3}\\right)_{2}\\right]^{+}$and $\\left[\\mathrm{Au}\\left(\\mathrm{S}_{2} \\mathrm{O}_{3}\\right)_{2}\\right]^{3-}$ complexes are $1.00 \\cdot 10^{26}$ and $1.00 \\cdot 10^{28}$, respectively. Consider a leaching solution in which the equilibrium concentrations of the species are as follows:\n\n$\\left[\\mathrm{S}_{2} \\mathrm{O}_{3}^{2 \\cdot}\\right]=0.100 ;\\left[\\mathrm{NH}_{3}\\right]=0.100$ and the total concentration of gold $(\\mathrm{I})$ species $=$ $5.50 \\cdot 10^{-5} \\mathrm{~mol} \\mathrm{dm}^{-3}$.Calculate the percentage of gold $(I)$ ion that exists in the form of thiosulfate complex.",
+        "answer": "99",
+        "unit": "%",
+        "reference": "NV",
+        "source": "OlympicArena",
+        "class": "Inorganic"
+    },
+    {
+        "index": 288,
+        "question": "The second law of thermodynamics is a fundamental law of science. In this problem we consider the thermodynamics of an ideal gas, phase transitions and chemical equilibrium.\n\n3.00 mol of $\\mathrm{CO}_{2}$ gas expands isothermically (in thermal contact with the surroundings; temperature $=15^{\\circ} \\mathrm{C}$ ) against a fixed external pressure of 1.00 bar. The initial and final volumes of the gas are $10.0 \\mathrm{dm}^{3}$ and $30.0 \\mathrm{dm}^{3}$, respectively.\n\nEstimate the temperature at which the reaction would have an equilibrium constant equal to 1. Ignore slight variations in the thermodynamic data with temperature.",
+        "answer": "980",
+        "unit": "$\\mathrm{~K}$",
+        "reference": "NV",
+        "source": "OlympicArena",
+        "class": "Physical"
+    },
+    {
+        "index": 289,
+        "question": "The rechargeable lithium ion battery has been developed in Japan.\n\nThe standard electromotive force of the battery is $3.70 \\mathrm{~V}$. Assume that the halfreaction at the cathode is\n\n$$\n\\mathrm{CoO}_{2}+\\mathrm{Li}^{+}+\\mathrm{e}^{-} \\rightarrow \\mathrm{LiCoO}_{2}\n$$\n\nand the half-reaction at the anode is\n\n$$\n\\mathrm{LiC}_{6} \\rightarrow 6 \\mathrm{C}+\\mathrm{Li}^{+}+\\mathrm{e}^{-} .\n$$\n\nThe battery cell is constructed using $\\mathrm{LiCoO}_{2}$ and graphite (C) as the electrode materials.Calculate the mass of the anode in the completely charged state if $10.00 \\mathrm{~g}$ of $\\mathrm{LiCoO}_{2}$ and $10.00 \\mathrm{~g}$ of graphite (C) are present initially.",
+        "answer": "10.71",
+        "unit": "g",
+        "reference": "MPV",
+        "source": "OlympicArena",
+        "class": "General"
+    },
+    {
+        "index": 290,
+        "question": "The rechargeable lithium ion battery has been developed in Japan.\n\nThe standard electromotive force of the battery is $3.70 \\mathrm{~V}$. Assume that the halfreaction at the cathode is\n\n$$\n\\mathrm{CoO}_{2}+\\mathrm{Li}^{+}+\\mathrm{e}^{-} \\rightarrow \\mathrm{LiCoO}_{2}\n$$\n\nand the half-reaction at the anode is\n\n$$\n\\mathrm{LiC}_{6} \\rightarrow 6 \\mathrm{C}+\\mathrm{Li}^{+}+\\mathrm{e}^{-} .\n$$\n\nThe battery cell is constructed using $\\mathrm{LiCoO}_{2}$ and graphite (C) as the electrode materials.Calculate the mass of the anode in completely discharged state if $10.00 \\mathrm{~g}$ of $\\mathrm{LiCoO}_{2}$ and $10.00 \\mathrm{~g}$ of graphite (C) are present initially.",
+        "answer": "10.71",
+        "unit": "g",
+        "reference": "MPV",
+        "source": "OlympicArena",
+        "class": "General"
+    },
+    {
+        "index": 291,
+        "question": "Lactic acid is formed in the muscles during intense activity (anaerobic metabolism). In the blood, lactic acid is neutralized by reaction with hydrogen carbonate. This will be illustrated by the following calculations:\n\nLactic acid written as HL is monoprotic, and the acid dissociation constant is $K_{\\mathrm{HL}}=1.4 \\times 10^{-4}$.\n\nThe acid dissociation constants for carbonic acid are: $K_{\\mathrm{a} 1}=4.5 \\times 10^{-7}$ and $K_{\\mathrm{a} 2}=$ $4.7 \\times 10^{-11}$. All carbon dioxide remains dissolved during the reactions.\n\n$\\mathrm{pH}$ in the blood of a person changed from 7.40 to 7.00 due to lactic acid formed during physical activity. Let an aqueous solution having $\\mathrm{pH}=7.40$ and $\\left[\\mathrm{HCO}_{3}^{-}\\right]=$ 0.022 represent blood in the following calculation. How many moles of lactic acid have been added to $1.00 \\mathrm{dm}^{3}$ of this solution when its $\\mathrm{pH}$ has become 7.00 ?",
+        "answer": "$2.4 \\times 10^{-3}$",
+        "unit": "$\\mathrm{~mol}$",
+        "reference": "NV",
+        "source": "OlympicArena",
+        "class": "Physical"
+    },
+    {
+        "index": 292,
+        "question": "In quantum mechanics, the movement of $\\pi$ electrons along a neutral chain of conjugated carbon atoms may be modeled using the 'particle in a box' method. The energy of the $\\pi$ electrons is given by the following equation:\n\n$$\nE_{\\mathrm{n}}=\\frac{n^{2} h^{2}}{8 m L^{2}}\n$$\n\nwhere $n$ is the quantum number $(n=1,2,3, \\ldots), h$ is Planck's constant, $m$ is the mass of electron, and $L$ is the length of the box which may be approximated by $L=(k+2) \\times 1.40 \\AA$ ( $k$ being the number of conjugated double bonds along the carbon chain in the molecule). A photon with the appropriate wavelength $\\lambda$ may promote $a$ m electron from the highest occupied molecular orbital (HOMO) to the lowest unoccupied molecular orbital (LUMO). An approximate semi-empirical formula based on this model which relates the wavelength $\\lambda$, to the number of double bonds $k$ and constant $B$ is as follows:\n\n$$\n\\lambda(\\mathrm{nm})=B \\times \\frac{(k+2)^{2}}{(2 k+1)}\n$$Using this semi-empirical formula with $B=65.01 \\mathrm{~nm}$ calculate the value of the wavelength $\\lambda(\\mathrm{nm})$ for octatetraene $\\left(\\mathrm{CH}_{2}=\\mathrm{CH}-\\mathrm{CH}=\\mathrm{CH}-\\mathrm{CH}=\\mathrm{CH}-\\mathrm{CH}=\\mathrm{CH}_{2}\\right)$.",
+        "answer": "260",
+        "unit": "nm",
+        "reference": "NV",
+        "source": "OlympicArena",
+        "class": "Physical"
+    },
+    {
+        "index": 293,
+        "question": "The second law of thermodynamics is a fundamental law of science. In this problem we consider the thermodynamics of an ideal gas, phase transitions and chemical equilibrium.\n\n3.00 mol of $\\mathrm{CO}_{2}$ gas expands isothermically (in thermal contact with the surroundings; temperature $=15^{\\circ} \\mathrm{C}$ ) against a fixed external pressure of 1.00 bar. The initial and final volumes of the gas are $10.0 \\mathrm{dm}^{3}$ and $30.0 \\mathrm{dm}^{3}$, respectively.\n\nFrom the data given in the phase diagram, calculate the molar enthalpy change of sublimation of $\\mathrm{CO}_{2}$. Write down the formula used.",
+        "answer": "26.1",
+        "unit": "$\\mathrm{~kJ} \\mathrm{~mol}^{-1}$",
+        "reference": "NV",
+        "source": "OlympicArena",
+        "class": "Physical"
+    },
+    {
+        "index": 294,
+        "question": "Acid-base equilibria in water\n\nA solution $(\\mathbf{X}$ ) contains two weak monoprotic acids (those having one acidic proton); HA with the acid dissociation constant of $K_{H A}=1.74 \\times 10^{-7}$, and $H B$ with the acid dissociation constant of $K_{H B}=1.34 \\times 10^{-7}$. The solution $\\mathbf{X}$ has a $\\mathrm{pH}$ of 3.75.Titration of $100 \\mathrm{~cm}^{3}$ of solution $\\mathbf{X}$ requires $100 \\mathrm{~cm}^{3}$ of $\\mathrm{NaOH}$ solution $\\left(c=0.220 \\mathrm{~mol} \\cdot \\mathrm{dm}^{-}{ }^{3}\\right)$ for completion. Calculate the initial (total) concentration $\\left(\\mathrm{mol} \\cdot \\mathrm{dm}^{-3}\\right.$ ) of acid HA in the solution $\\mathbf{X}$.\n\nUse reasonable approximations where appropriate. $\\left[K_{w}=1.00 \\times 10^{-14}\\right.$ at $\\left.298 \\mathrm{~K}\\right]$",
+        "answer": "0.053",
+        "unit": "$\\mathrm{mol} \\cdot \\mathrm{dm}^{-3}$, $\\mathrm{mol} \\cdot \\mathrm{dm}^{-3}$",
+        "reference": "MPV",
+        "source": "OlympicArena",
+        "class": "Analytical"
+    },
+    {
+        "index": 295,
+        "question": "Acid-base equilibria in water\n\nA solution $(\\mathbf{X}$ ) contains two weak monoprotic acids (those having one acidic proton); HA with the acid dissociation constant of $K_{H A}=1.74 \\times 10^{-7}$, and $H B$ with the acid dissociation constant of $K_{H B}=1.34 \\times 10^{-7}$. The solution $\\mathbf{X}$ has a $\\mathrm{pH}$ of 3.75.Titration of $100 \\mathrm{~cm}^{3}$ of solution $\\mathbf{X}$ requires $100 \\mathrm{~cm}^{3}$ of $\\mathrm{NaOH}$ solution $\\left(c=0.220 \\mathrm{~mol} \\cdot \\mathrm{dm}^{-}{ }^{3}\\right)$ for completion. Calculate the initial (total) concentration $\\left(\\mathrm{mol} \\cdot \\mathrm{dm}^{-3}\\right.$ ) of acid HB in the solution $\\mathbf{X}$.\n\nUse reasonable approximations where appropriate. $\\left[K_{w}=1.00 \\times 10^{-14}\\right.$ at $\\left.298 \\mathrm{~K}\\right]$",
+        "answer": "0.167",
+        "unit": "$\\mathrm{mol} \\cdot \\mathrm{dm}^{-3}$, $\\mathrm{mol} \\cdot \\mathrm{dm}^{-3}$",
+        "reference": "MPV",
+        "source": "OlympicArena",
+        "class": "Analytical"
+    },
+    {
+        "index": 296,
+        "question": "When the fresh-water rivers that run into the Chesapeake Bay flood after heavy rains in the spring, the increase in fresh water in the Bay causes a decrease in the salinity in the areas where oysters grow. The minimum concentration of chloride ions needed in oyster beds for normal growth is $8 \\mathrm{ppm}\\left(8 \\mathrm{mg} \\mathrm{dm}^{-3}\\right)$.\n\nAfter one week of heavy rain, the following analysis is done on water from the bay. To a $50.00 \\mathrm{~cm}^{3}$ sample of bay water a few drops of a $\\mathrm{K}_{2} \\mathrm{CrO}_{4}$ solution are added. The sample is then titrated with $16.16 \\mathrm{~cm}^{3}$ of a $0.00164 \\mathrm{M} \\mathrm{AgNO}_{3}$ solution. After $\\mathrm{AgNO}_{3}$ solution has been added to the sample a bright red-orange precipitate forms.\n\nThe chloride concentration in another $50.00 \\mathrm{~cm}^{3}$ sample of bay water was determined by the Volhard method. In this method an excess of $\\mathrm{AgNO}_{3}$ is added to the sample. The excess $\\mathrm{Ag}^{+}$is titrated with standardized $\\mathrm{KSCN}$, forming a precipitate of $\\mathrm{AgSCN}$. The endpoint is signalled by the formation of the reddish-brown $\\mathrm{FeSCN}^{2+}$ complex that forms when $\\mathrm{Ag}^{+}$is depleted. If the excess $\\mathrm{Ag}^{+}$from the addition of $50.00 \\mathrm{~cm}^{3}$ of $0.00129 \\mathrm{M} \\mathrm{AgNO}_{3}$ to the water sample required $27.46 \\mathrm{~cm}^{3}$ of $1.4110^{-3}$ M KSCN for titration, calculate the concentration of chloride in the bay water sample.\n\nIn natural waters with much higher concentration of $\\mathrm{Cl}^{-}$, the $\\mathrm{Cl}^{-}$can be determined gravimetrically by precipitating the $\\mathrm{Cl}^{-}$as $\\mathrm{AgCl}$. A complicating feature of this method is the fact that $\\mathrm{AgCl}$ is susceptible to photodecomposition as shown by the reaction:\n\n$$\n\\mathrm{AgCl}(\\mathrm{s}) \\rightarrow \\mathrm{Ag}(\\mathrm{s})+1 / 2 \\mathrm{Cl}_{2}(\\mathrm{~g})\n$$\n\nFurthermore, if this photodecomposition occurs in the presence of excess $\\mathrm{Ag}^{+}$, the following additional reaction occurs:\n\n$3 \\mathrm{Cl}_{2}(\\mathrm{~g})+3 \\mathrm{H}_{2} \\mathrm{O}+5 \\mathrm{Ag}^{+} \\rightarrow 5 \\mathrm{AgCl}+\\mathrm{ClO}_{3}{ }^{-}+6 \\mathrm{H}^{+}$\n\nIf $0.010 \\mathrm{~g}$ of a $3.000 \\mathrm{~g}$ sample of $\\mathrm{AgCl}$ contaminated with excess $\\mathrm{Ag}^{+}$undergoes photodecomposition by the above equations",
+        "answer": "$5.16 \\times 10^{-4}$",
+        "unit": "$ \\mathrm{~mol} \\mathrm{dm}^{-3}$",
+        "reference": "NV",
+        "source": "OlympicArena",
+        "class": "Inorganic"
+    },
+    {
+        "index": 297,
+        "question": "Acid-base equilibria in water\n\nA solution $(\\mathbf{X}$ ) contains two weak monoprotic acids (those having one acidic proton); HA with the acid dissociation constant of $K_{H A}=1.74 \\times 10^{-7}$, and $H B$ with the acid dissociation constant of $K_{H B}=1.34 \\times 10^{-7}$. The solution $\\mathbf{X}$ has a $\\mathrm{pH}$ of 3.75.Calculate the $\\mathrm{pH}$ of the solution $\\mathbf{Y}$ in which the concentration of $\\mathrm{NaA}$ initially was $6.00 \\times 10^{-2}$ $\\mathrm{mol} \\cdot \\mathrm{dm}^{-3}$ and that of $\\mathrm{NaB}$ $4.00 \\times 10^{-2} \\mathrm{~mol} \\cdot \\mathrm{dm}^{-3}$.",
+        "answer": "9.9",
+        "unit": "",
+        "reference": "NV",
+        "source": "OlympicArena",
+        "class": "General"
+    },
+    {
+        "index": 298,
+        "question": "The standard deviation in measuring the diameter?d?of a sphere is plus or minus 0.02 centimeter. What is the standard deviation in the calculated volume?V?of the sphere if?\\(d = 2.35\\)?centimeters?",
+        "answer": "0.173",
+        "unit": "",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. 4-13",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 299,
+        "question": "What volume of 0.200 M HCl must be added to 500.0 mL of 0.300 M sodium mandelate to produce a buffer solution with a pH of 3.25?",
+        "answer": "438.0",
+        "unit": "mL",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. 7-29",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 300,
+        "question": "Calculate the hydronium ion concentration in a solution that is \\(2.0 \\times 10^{-4}\\,\\text{M}\\) in aniline hydrochloride, \\(\\text{C}_6\\text{H}_5\\text{NH}_3\\text{Cl}\\).",
+        "answer": "5.94e-05",
+        "unit": "M",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. Example 7-8",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 301,
+        "question": "Calculate the molar solubility of PbS in a solution in which $\\ce{[H_3O^+]}$ is held constant at $3.0\\times10^{-1}\\ \\text{M}$.",
+        "answer": "0.00015",
+        "unit": "M",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. 9-9",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 302,
+        "question": "Calculate the molar solubility of PbS in a solution in which $\\ce{[H_3O^+]}$ is held constant at $3.0\\times10^{-4}\\ \\text{M}$.",
+        "answer": "1.5e-07",
+        "unit": "M",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. 9-9",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 303,
+        "question": "Calculate the molar solubility of $\\ce{ZnCO_3}$ in a solution buffered to a pH of 7.00.",
+        "answer": "0.00051",
+        "unit": "M",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. 9-12",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 304,
+        "question": "What mass of $\\ce{Cu(IO_3)_2}$ can be formed from 0.475 g of $\\ce{CuSO_4??5H_2O}$?",
+        "answer": "0.786",
+        "unit": "g",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. 10-12",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 305,
+        "question": "What mass in grams of $\\ce{CO_2}$ is evolved in the complete decomposition of a 2.300 - g sample that is 38.0% $\\ce{MgCO_3}$ and 42.0% $\\ce{K_2CO_3}$ by mass?",
+        "answer": "0.784",
+        "unit": "g",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. 10-30",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 306,
+        "question": "A 50.00 - mL portion of an HCl solution required 29.71 mL of 0.01963 M $\\ce{Ba(OH)_2}$ to reach an end point with bromocresol green indicator. Calculate the molar concentration of the HCl.",
+        "answer": "0.02333",
+        "unit": "M",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. Example 11-4",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 307,
+        "question": "A 0.4126 - g sample of primary - standard $\\ce{Na_2CO_3}$ was treated with 40.00 mL of dilute perchloric acid. The solution was boiled to remove $\\ce{CO_2}$, following which the excess $\\ce{HClO_4}$ was back - titrated with 9.20 mL of dilute NaOH. In a separate experiment, it was established that 26.93 mL of the $\\ce{HClO_4}$ neutralized the NaOH in a 25.00 - mL portion. Calculate the molarities of the $\\ce{HClO_4}$.",
+        "answer": "0.2587",
+        "unit": "M",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. 11-17",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 308,
+        "question": "A 0.4126 - g sample of primary - standard $\\ce{Na_2CO_3}$ was treated with 40.00 mL of dilute perchloric acid. The solution was boiled to remove $\\ce{CO_2}$, following which the excess $\\ce{HClO_4}$ was back - titrated with 9.20 mL of dilute NaOH. In a separate experiment, it was established that 26.93 mL of the $\\ce{HClO_4}$ neutralized the NaOH in a 25.00 - mL portion. Calculate the molarities of the NaOH.",
+        "answer": "0.2787",
+        "unit": "M",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. 11-17",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 309,
+        "question": "A 3.00 - L sample of urban air was bubbled through a solution containing 50.0 mL of 0.0116 M $\\ce{Ba(OH)_2}$, which caused the $\\ce{CO_2}$ in the sample to precipitate as $\\ce{BaCO_3}$. The excess base was back - titrated to a phenolphthalein end point with 23.6 mL of 0.0108 M HCl. Calculate concentration of $\\ce{CO_2}$ in the air in parts per million (that is, mL $\\ce{CO_2}$/$10^6$ mL air); use 1.98 g/L for the density of $\\ce{CO_2}$.",
+        "answer": "3350.0",
+        "unit": "ppm",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. 14-29",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 310,
+        "question": "Chromel is an alloy composed of nickel, iron, and chromium. A 0.6553 - g sample was dissolved and diluted to 250.0 mL. When a 50.00 - mL aliquot of 0.05173 M EDTA was mixed with an equal volume of the diluted sample, all three ions were chelated, and a 5.34 - mL back - titration with 0.06139 M copper(II) was required. The chromium in a second 50.0 - mL aliquot was masked through the addition of hexamethylenetetramine; titration of the Fe and Ni required 36.98 mL of 0.05173 M EDTA. Iron and chromium were masked with pyrophosphate in a third 50.0 - mL aliquot, and the nickel was titrated with 24.53 mL of the EDTA solution. Calculate the percentages of nickel in the alloy.",
+        "answer": "0.1372",
+        "unit": "Cr",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. 15-36",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 311,
+        "question": "Chromel is an alloy composed of nickel, iron, and chromium. A 0.6553 - g sample was dissolved and diluted to 250.0 mL. When a 50.00 - mL aliquot of 0.05173 M EDTA was mixed with an equal volume of the diluted sample, all three ions were chelated, and a 5.34 - mL back - titration with 0.06139 M copper(II) was required. The chromium in a second 50.0 - mL aliquot was masked through the addition of hexamethylenetetramine; titration of the Fe and Ni required 36.98 mL of 0.05173 M EDTA. Iron and chromium were masked with pyrophosphate in a third 50.0 - mL aliquot, and the nickel was titrated with 24.53 mL of the EDTA solution. Calculate the percentages of chromium in the alloy.",
+        "answer": "0.5682",
+        "unit": "Ni",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. 15-36",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 312,
+        "question": "Chromel is an alloy composed of nickel, iron, and chromium. A 0.6553 - g sample was dissolved and diluted to 250.0 mL. When a 50.00 - mL aliquot of 0.05173 M EDTA was mixed with an equal volume of the diluted sample, all three ions were chelated, and a 5.34 - mL back - titration with 0.06139 M copper(II) was required. The chromium in a second 50.0 - mL aliquot was masked through the addition of hexamethylenetetramine; titration of the Fe and Ni required 36.98 mL of 0.05173 M EDTA. Iron and chromium were masked with pyrophosphate in a third 50.0 - mL aliquot, and the nickel was titrated with 24.53 mL of the EDTA solution. Calculate the percentages of iron in the alloy.",
+        "answer": "0.2744",
+        "unit": "Fe",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. 15-36",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 313,
+        "question": "A 5.00 - mL sample of brandy was diluted to 1.000 L in a volumetric flask. The ethanol ($\\ce{C_2H_5OH}$) in a 25.00 - mL aliquot of the diluted solution was distilled into 50.00 mL of 0.02000 M $\\ce{K_2Cr_2O_7}$ and oxidized to acetic acid with heating: $$\\ce{3C_2H_5OH + 2Cr_2O_7^{2-} + 16H^+ \\to 4Cr^{3+} + 3CH_3COOH + 11H_2O}$$ After cooling, 20.00 mL of 0.1253 M $\\ce{Fe^{2+}}$ was pipetted into the flask. The excess $\\ce{Fe^{2+}}$ was then titrated with 7.46 mL of the standard $\\ce{K_2Cr_2O_7}$ to a diphenylamine sulfonic acid end point. Calculate the percent (w/v) $\\ce{C_2H_5OH}$ (46.07 g/mol) in the brandy.",
+        "answer": "0.404",
+        "unit": "C2H5OH",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. Example 18-6",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 314,
+        "question": "A sensitive method for $\\ce{I^-}$ in the presence of $\\ce{Cl^-}$ and $\\ce{Br^-}$ entails oxidation of the $\\ce{I^-}$ to $\\ce{IO_3^-}$ with $\\ce{Br_2}$. The excess $\\ce{Br_2}$ is then removed by boiling or by reduction with formate ion. The $\\ce{IO_3^-}$ produced is determined by addition of excess $\\ce{I^-}$ and titration of the resulting $\\ce{I_2}$. A 1.307 - g sample of mixed halides was dissolved and analyzed by the foregoing procedure. A volume of 19.72 mL of 0.04926 M thiosulfate was required for the titration. Calculate the percentage of $\\ce{KI}$ in the sample.",
+        "answer": "0.02056",
+        "unit": "KI",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. 18-24",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 315,
+        "question": "An unknown cadmium(II) solution was analyzed polarographically by the method of standard additions. A 25.00 - mL sample of the unknown solution produced a diffusion current of 1.86 ??A. Following addition of a 5.00 - mL aliquot of \\(2.12\\times10^{-3}\\ \\text{M}\\ \\ce{Cd^{2+}}\\) standard solution to the unknown solution, a diffusion current of 5.27 ??A was produced. Calculate the concentration of \\(\\ce{Cd^{2+}}\\) in the unknown solution.",
+        "answer": "0.000177",
+        "unit": "M",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. 21-13",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 316,
+        "question": "Molar absorptivity data for the cobalt and nickel complexes with 2,3 - quinoxalinedithiol are $\\varepsilon_{\\ce{Co}} = 36,400$ and $\\varepsilon_{\\ce{Ni}} = 5520$ at 510 nm and $\\varepsilon_{\\ce{Co}} = 1240$ and $\\varepsilon_{\\ce{Ni}} = 17,500$ at 656 nm. A 0.425 - g sample was dissolved and diluted to 50.0 mL. A 25.0 - mL aliquot was treated to eliminate interferences; after addition of 2,3 - quinoxalinedithiol, the volume was adjusted to 50.0 mL. This solution had an absorbance of 0.446 at 510 nm and 0.326 at 656 nm in a 1.00 - cm cell. Calculate the concentration in parts per million of cobalt in the sample.",
+        "answer": "132.0",
+        "unit": "Co(ppm)",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. 24-18",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 317,
+        "question": "Molar absorptivity data for the cobalt and nickel complexes with 2,3 - quinoxalinedithiol are $\\varepsilon_{\\ce{Co}} = 36,400$ and $\\varepsilon_{\\ce{Ni}} = 5520$ at 510 nm and $\\varepsilon_{\\ce{Co}} = 1240$ and $\\varepsilon_{\\ce{Ni}} = 17,500$ at 656 nm. A 0.425 - g sample was dissolved and diluted to 50.0 mL. A 25.0 - mL aliquot was treated to eliminate interferences; after addition of 2,3 - quinoxalinedithiol, the volume was adjusted to 50.0 mL. This solution had an absorbance of 0.446 at 510 nm and 0.326 at 656 nm in a 1.00 - cm cell. Calculate the concentration in parts per million of nickel in the sample.",
+        "answer": "248.0",
+        "unit": "Ni(ppm)",
+        "reference": "Fundamentals of Analytical Chemistry, 10th. 24-18",
+        "source": "QCBench",
+        "class": "Analytical"
+    },
+    {
+        "index": 318,
+        "question": "Given that the average molar mass of the polymer chains in this sample of poly(lactic acid) (PLA) is \\pu{595 g mol^{-1}} using end-group analysis, where \\pu{0.1619 g} of PLA was dissolved in \\pu{25 cm^3} of benzyl alcohol and titrated with \\pu{0.0400 mol dm^{-3}} \\ce{KOH} solution. The volume of \\ce{KOH} solution required to reach the endpoint was \\pu{6.81 cm^3}. What is the average number of monomer units in each polymer chain of this sample?",
+        "answer": "8.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "General"
+    },
+    {
+        "index": 319,
+        "question": "Poly(lactic acid) (PLA) can be broken down enzymatically to lactic acid monomer and compound B (a dimer of lactic acid). A plastic sample degraded to \\pu{1.044 g}, and titration showed it needed \\pu{19.40 cm^3} of \\pu{0.100 mol dm^{-3}} \\ce{NaOH} to neutralize. What is the number of moles of acid in the sample?",
+        "answer": "0.0097",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "General"
+    },
+    {
+        "index": 320,
+        "question": "How can you determine the average molar mass of polymer chains in a sample of poly(lactic acid) (PLA) using end-group analysis? In this procedure, \\pu{0.1619 g} of PLA was dissolved in \\pu{25 cm^3} of benzyl alcohol, and the mixture was titrated with \\pu{0.0400 mol dm^{-3}} \\ce{KOH} solution. The volume of \\ce{KOH} solution required to reach the endpoint was \\pu{6.81 cm^3}. What is the average molar mass of the polymer chains in the sample of PLA (in \\pu{g mol^{-1}})?",
+        "answer": "595.0",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "General"
+    },
+    {
+        "index": 321,
+        "question": "Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?",
+        "answer": "0.74",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "General"
+    },
+    {
+        "index": 322,
+        "question": "The calculated spin only magnetic moments of $\\left[\\mathrm{Cr}\\left(\\mathrm{NH}_{3}\\right)_{6}\\right]^{3+}$ is ? (Atomic numbers of $\\mathrm{Cr}$ is 24)",
+        "answer": "3.87",
+        "unit": "",
+        "reference": "JEE Adv 2021 Paper 1",
+        "source": "JEEBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 323,
+        "question": "The calculated spin only magnetic moments of $\\left[\\mathrm{CuF}_{6}\\right]^{3-}$ in $\\mathrm{BM}$ is ? (Atomic numbers of $\\mathrm{Cu} is 29)",
+        "answer": "2.84",
+        "unit": "",
+        "reference": "JEE Adv 2021 Paper 1",
+        "source": "JEEBench",
+        "class": "Inorganic"
+    },
+    {
+        "index": 324,
+        "question": "2 mol of $\\mathrm{Hg}(g)$ is combusted in a fixed volume bomb calorimeter with excess of $\\mathrm{O}_{2}$ at $298 \\mathrm{~K}$ and 1 atm into $\\mathrm{HgO}(s)$. During the reaction, temperature increases from $298.0 \\mathrm{~K}$ to $312.8 \\mathrm{~K}$. If heat capacity of the bomb calorimeter and enthalpy of formation of $\\mathrm{Hg}(g)$ are $20.00 \\mathrm{~kJ} \\mathrm{~K}^{-1}$ and $61.32 \\mathrm{~kJ}$ $\\mathrm{mol}^{-1}$ at $298 \\mathrm{~K}$, respectively, the calculated standard molar enthalpy of formation of $\\mathrm{HgO}(s)$ at 298 $\\mathrm{K}$ is $\\mathrm{X} \\mathrm{kJ} \\mathrm{mol} \\mathrm{m}^{-1}$. What is the value of $|\\mathrm{X}|$?\n\n[Given: Gas constant $\\mathrm{R}=8.3 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$ ]",
+        "answer": "90.39",
+        "unit": "",
+        "reference": "JEE Adv 2022 Paper 1",
+        "source": "JEEBench",
+        "class": "Physical"
+    },
+    {
+        "index": 325,
+        "question": "Find an expression for the change in entropy when two blocks of the same substance and of equal mass, one at the temperature $T_\\text{h}$ and the other at $T_\\text{c}$, are brought into thermal contact and allowed to reach equilibrium. Evaluate the change in entropy for two blocks of copper, each of mass 500 g, with $C_{p,\\text{m}} = 24.4\\ \\text{J K}^{-1}\\text{mol}^{-1}$, taking $T_\\text{h} = 500\\ \\text{K}$ and $T_\\text{c} = 250\\ \\text{K}$.  ",
+        "answer": "22.6",
+        "unit": "JK-1",
+        "reference": "Atkin's Physical Chemistry, 11th.P3B.5",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 326,
+        "question": "The standard enthalpy of combustion of liquid ethyl ethanoate (ethyl acetate, $\\ce{CH_3COOC_2H_5}$) is $-2231\\ \\text{kJ mol}^{-1}$ at $298\\ \\text{K}$ and its standard molar entropy is $259.4\\ \\text{J K}^{-1}\\text{mol}^{-1}$. Calculate the standard Gibbs energy of formation of the compound at $298\\ \\text{K}$.  ",
+        "answer": "-340.0",
+        "unit": "kJ mol-1",
+        "reference": "Atkin's Physical Chemistry, 11th.E3D.5(a)",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 327,
+        "question": "Estimate the change in the Gibbs energy of $1.0\\ \\text{dm}^3$ of liquid octane when the pressure acting on it is increased from $1.0\\ \\text{atm}$ to $100\\ \\text{atm}$. Given that the mass density of octane is $0.703\\ \\text{g cm}^{-3}$, determine the change in the molar Gibbs energy.  Retain one decimal place, and the unit is $\\text{kJ¡¤mol}^{-1}$.",
+        "answer": "1.6",
+        "unit": "kJ mol-1",
+        "reference": "Atkin's Physical Chemistry, 11th.E3E.4(a)",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 328,
+        "question": "Imagine the vaporization of $1\\ \\text{mol}\\ \\ce{H_2O(l)}$ at the normal boiling point and against $1\\ \\text{atm}$ external pressure. Calculate the work done by the water vapour and hence what fraction of the enthalpy of vaporization is spent on expanding the vapour. The enthalpy of vaporization of water is $40.7\\ \\text{kJ mol}^{-1}$ at the normal boiling point.  ",
+        "answer": "7.62",
+        "unit": "%",
+        "reference": "Atkin's Physical Chemistry, 11th.P4B.1",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 329,
+        "question": "The partial molar volumes of propanone (acetone) and trichloromethane (chloroform) in a mixture in which the mole fraction of $\\ce{CHCl_3}$ is $0.4693$ are $74.166\\ \\text{cm}^3\\text{mol}^{-1}$ and $80.235\\ \\text{cm}^3\\text{mol}^{-1}$, respectively. What is the volume of a solution of mass $1.000\\ \\text{kg}$? ",
+        "answer": "887.0",
+        "unit": "cm3",
+        "reference": "Atkin's Physical Chemistry, 11th.E5A.6",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 330,
+        "question": "The excess Gibbs energy of solutions of methylcyclohexane (MCH) and tetrahydrofuran (THF) at $303.15\\ \\text{K}$ were found to fit the expression   $$G^\\text{E} = RTx(1 - x)\\{0.4857 - 0.1077(2x - 1) + 0.0191(2x - 1)^2\\}$$   where $x$ is the mole fraction of MCH. Calculate the Gibbs energy of mixing when a mixture of $1.00\\ \\text{mol}$ MCH and $3.00\\ \\text{mol}$ THF is prepared.  ",
+        "answer": "-4.64",
+        "unit": "kJ",
+        "reference": "Atkin's Physical Chemistry, 11th.P5B.5",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 331,
+        "question": "The standard Gibbs energy of formation of \\ce{NH_3(g)} is -16.5\\ \\text{kJ mol}^{-1} at 298\\ \\text{K}. What is the corresponding reaction Gibbs energy when the partial pressures of the \\ce{N_2}, \\ce{H_2}, and \\ce{NH_3} (treated as perfect gases) are 3.0\\ \\text{bar}, 1.0\\ \\text{bar}, and 4.0\\ \\text{bar}, respectively? What is the spontaneous direction of the reaction in this case? Round the result to an integer.",
+        "answer": "-14.0",
+        "unit": "kJ mol-1",
+        "reference": "Atkin's Physical Chemistry, 11th.E6A.13a",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 332,
+        "question": "The equilibrium pressure of \\ce{H_2} over \\ce{U(s)} and \\ce{UH_3(s)} between 450\\ \\text{K} and 715\\ \\text{K} fits the expression \\ln(p/\\text{Pa}) = A + B/T + C \\ln(T/\\text{K}), with A = 69.32, B = -1.464 \\times 10^4\\ \\text{K}, and C = -5.65. Find an expression for the standard enthalpy of formation of \\ce{UH_3(s)} and from it calculate \\Delta_rC_{p}^{\\ominus}. Requirement: Round the results to one decimal place. ",
+        "answer": "70.5",
+        "unit": "JK-1mol-1",
+        "reference": "Atkin's Physical Chemistry, 11th.P6B.3",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 333,
+        "question": "Suppose that the junction between two semiconductors can be represented by a barrier of height 2.0 eV and length 100 pm. Calculate the transmission probability of an electron with energy 1.5 eV.",
+        "answer": "0.84",
+        "unit": "",
+        "reference": "Atkin's Physical Chemistry, 11th.E7D.15",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 334,
+        "question": "What is the speed of a photoelectron ejected from an orbital of ionization energy 12.0 eV by a photon of radiation of wavelength 100 nm?",
+        "answer": "370000.0",
+        "unit": "ms-1",
+        "reference": "Atkin's Physical Chemistry, 11th.E9C.6(a)",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 335,
+        "question": "Calculate the moment of inertia around the bisector of the OOO angle.(bond angle $117^\\circ$; OO bond length 128 pm).",
+        "answer": "6.3299999999999994e-46",
+        "unit": "kg m2",
+        "reference": "Atkin's Physical Chemistry, 11th.E11B.1(a)",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 336,
+        "question": "Calculate the corresponding rotational constant of an $\\ce{^{16}O3}$ molecule given the moment of inertia around the bisector of the OOO angle (bond angle $117^\\circ$; OO bond length 128 pm).",
+        "answer": "0.442",
+        "unit": "cm-1",
+        "reference": "Atkin's Physical Chemistry, 11th.E11B.1(a)",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 337,
+        "question": "A proton jumps between two sites with \\(\\delta = 2.7\\) and \\(\\delta = 4.8\\). What rate constant for the interconversion process is needed for the two signals to collapse to a single line in a spectrometer operating at 550 MHz? **Requirement**: Round the results to one decimal place. ",
+        "answer": "2600.0",
+        "unit": "s-1",
+        "reference": "Atkin's Physical Chemistry, 11th.E12B.14(a)",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 338,
+        "question": "Two groups of protons have \\(\\delta = 4.0\\) and \\(\\delta = 5.2\\) and are interconverted by a conformational change of a fluxional molecule. In a 60 MHz spectrometer the spectrum collapsed into a single line at 280 K but at 300 MHz the collapse did not occur until the temperature had been raised to 300 K. Calculate the exchange rate constant at the two temperatures and hence find the activation energy of the interconversion. Please return the sum as the final answer.",
+        "answer": "1016.0",
+        "unit": "s-1, s-1, kJmol-1",
+        "reference": "Atkin's Physical Chemistry, 11th.I12.3",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 339,
+        "question": "The bond length of \\(\\ce{O2}\\) is 120.75 pm. Use the high-temperature approximation to calculate the rotational partition function of the molecule at 300 K",
+        "answer": "72.1",
+        "unit": "",
+        "reference": "Atkin's Physical Chemistry, 11th.E13B.3(a)",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 340,
+        "question": "Compute the mean energy at 298 K of a two-level system of energy separation equivalent to 500 cm??.",
+        "answer": "8.1500000000000005e-22",
+        "unit": "J",
+        "reference": "Atkin's Physical Chemistry, 11th.E13C.1(a)",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 341,
+        "question": "Calculate the standard molar entropy at 298 K of gaseous helium.",
+        "answer": "126.0",
+        "unit": "JK-1mol-1",
+        "reference": "Atkin's Physical Chemistry, 11th.E13E.5(a)",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 342,
+        "question": "Calculate the standard molar entropy at 298 K of gaseous xenon.",
+        "answer": "169.7",
+        "unit": "JK-1mol-1",
+        "reference": "Atkin's Physical Chemistry, 11th.E13E.5(a)",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 343,
+        "question": "A \\(\\ce{CO2}\\) molecule is linear, and its vibrational wavenumbers are \\(1388.2\\ \\text{cm}^{-1}\\), \\(2349.2\\ \\text{cm}^{-1}\\), and \\(667.4\\ \\text{cm}^{-1}\\), the last being doubly degenerate and the others non - degenerate. The rotational constant of the molecule is \\(0.3902\\ \\text{cm}^{-1}\\). Calculate the rotational contributions to the molar Gibbs energy at 298 K.",
+        "answer": "-13.83",
+        "unit": "kJ mol-1",
+        "reference": "Atkin's Physical Chemistry, 11th.E13F.1(a)",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 344,
+        "question": "Calculate the magnitude of the dipole moment of the following arrangement of charges in the \\(xy\\)-plane: \\(3e\\) at \\((0, 0)\\), \\(-e\\) at \\((0.32\\ \\text{nm}, 0)\\), and \\(-2e\\) at an angle of \\(20^\\circ\\) from the \\(x\\)-axis and a distance of \\(0.23\\ \\text{nm}\\) from the origin.",
+        "answer": "37.0",
+        "unit": "D",
+        "reference": "Atkin's Physical Chemistry, 11th.E14A.3(a)",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 345,
+        "question": "Calculate the direction of the dipole moment of the following arrangement of charges in the \\(xy\\)-plane: \\(3e\\) at \\((0, 0)\\), \\(-e\\) at \\((0.32\\ \\text{nm}, 0)\\), and \\(-2e\\) at an angle of \\(20^\\circ\\) from the \\(x\\)-axis and a distance of \\(0.23\\ \\text{nm}\\) from the origin.",
+        "answer": "12.0",
+        "unit": "o",
+        "reference": "Atkin's Physical Chemistry, 11th.E14A.3(a)",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 346,
+        "question": "At \\(0\\ ^{\\circ}\\text{C}\\), the molar polarization of liquid chlorine trifluoride is \\(27.18\\ \\text{cm}^3\\ \\text{mol}^{-1}\\) and its mass density is \\(1.89\\ \\text{g}\\ \\text{cm}^{-3}\\). Calculate the relative permittivity of the liquid.",
+        "answer": "4.75",
+        "unit": "",
+        "reference": "Atkin's Physical Chemistry, 11th.E14A.6(a)",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 347,
+        "question": "In an industrial process, nitrogen is heated to 500 K at a constant volume of (1.000\\ \\text{m}^3). The mass of the gas is 92.4 kg. Use the van der Waals equation to determine the approximate pressure of the gas at its working temperature of 500 K. For nitrogen, (a = 1.352\\ \\text{dm}^6\\ \\text{atm}\\ \\text{mol}^{-2}), (b = 0.0387\\ \\text{dm}^3\\ \\text{mol}^{-1}). ",
+        "answer": "140.0",
+        "unit": "atm",
+        "reference": "Atkin's Physical Chemistry, 11th.E1C.4(a)",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 348,
+        "question": "What pressure would 4.56 g of nitrogen gas in a vessel of volume (2.25\\ \\text{dm}^3) exert at 273 K if it obeyed the virial equation of state up to and including the first two terms?",
+        "answer": "1.62",
+        "unit": "atm",
+        "reference": "Atkin's Physical Chemistry, 11th.P1C.1(a)",
+        "source": "QCBench",
+        "class": "Physical"
+    },
+    {
+        "index": 349,
+        "question": "Assume that \\pu{1 L} of E10 fuel contains \\pu{100 mL} of ethanol and \\pu{900 mL} of octane isomers, and that \\pu{1 L} of E5 fuel contains \\pu{50 mL} of ethanol and \\pu{950 mL} of octane isomers. Taking the \\ce{CO2} produced from burning \\pu{1 L} of E5 fuel as \\pu{100 %}, what is the percentage of \\ce{CO2} produced from burning \\pu{1 L} of E10 fuel. Consider only \\ce{CO2} formed from the combustion of octane isomers?",
+        "answer": "94.7",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "General"
+    },
+    {
+        "index": 350,
+        "question": "A methane flame of \\pu{2.5 mm} height is observed above the bunsen burner whose tube has a diameter of \\pu{8 mm}.  The laminar flame speed at \\pu{25 deg C}, \\pu{101.325 kPa} and air to fuel equivalence ratio ($\\lambda$) of 1.2 is \\pu{0.38 m/s}. What would be the air flow rate (\\pu{L/min}) if reactants enter the burner at \\pu{25 deg C}, \\pu{101.325 kPa} and air to fuel equivalence ratio ($\\lambda$) of 1.2?",
+        "answer": "1.24",
+        "unit": "",
+        "reference": "ChemBench",
+        "source": "ChemBench",
+        "class": "General"
+    }
+]
