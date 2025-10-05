@@ -1,0 +1,13 @@
+Number,Descriptions,Answer,Unit,Reference,Source,Class
+1,Calculate the magnetic moment (Ã×I) of a 13C nucleus.,9.1445 x 10^-27, J T-1,MMLU,MMLU,
+2,Calculate the Larmor frequency for a proton in a magnetic field of 1 T.,42.58,MHz,MMLU,MMLU,
+3,"The X-band (9.5 GHz) EPR spectrum of a matrix isolated Na atom reveals four hyperfine lines with resonant field positions of 3074 G, 3174 G, 3274 G and 3374 G. Calculate the g value of the atom.",2.002,,MMLU,MMLU,
+4,Calculate the spin angular momentum of 43Ca. [I = 7?2],4.185 x 10^-34, J s,MMLU,MMLU,
+5,Calculate the magnetic field responsible for the polarization of 2.5 x 10^-6 for 13C at 298 K.,2.9,T,MMLU,MMLU,
+6,"The T2 of an NMR line is 15 ms. Ignoring other sources of linebroadening, calculate its linewidth.",21.2, Hz,MMLU,MMLU,
+7,Calculate the Q-factor for an X-band EPR cavity with a resonator bandwidth of 1.58 MHz.,6012,,MMLU,MMLU,
+8,Calculate spin density on the central carbon atom of malonic acid radical (?CH(COOH)2) if the hyperfine value for the Ï«-hydrogen atom is 21.9 G.,0.15,,MMLU,MMLU,
+9,Calculate the equilibrium polarization of 13C nuclei in a 20.0 T magnetic field at 300 K., 1.71 x 10^-5,,MMLU,MMLU,
+10,A PO3- radical produces a pair of lines separated by 280 MHz with giso = 2.005. Calculate the expected resonant field positions of both lines in the X-band EPR spectrum (ôé = 9.5 GHz).,"0.218, 0.418",mT,MMLU,MMLU,
+11,"Calculate the relative occupancies of the Ï« and ÉÇ spin energy levels for a radical species with g = 2.05, at L-band frequencies (take TS = 300 K).",0.985,,MMLU,MMLU,
+12,"Calculate the relative occupancies of the Ï« and ÉÇ spin energy levels for a radical species with g = 2.05, at W-band frequencies (take TS = 300 K).",0.9809,,MMLU,MMLU,
